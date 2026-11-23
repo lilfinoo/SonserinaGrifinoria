@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1020">
+  <title>Salão das Casas</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+    <a href="/" class="brand"><i aria-hidden="true">✦</i><span>Salão das Casas</span></a>
+    <nav aria-label="Navegação principal">
+      <button id="home" aria-current="page">Jogar</button>
+      <button id="ranking">Ranking</button>
+    </nav>
+    <button id="account">Entrar ↗</button>
+  </header>
+  <main id="app"><p class="panel muted" role="status">Abrindo o salão…</p></main>
+  <footer><b aria-hidden="true">✦</b> Salão das Casas <span>Jogo de fãs</span></footer>
+  <dialog id="modal" aria-labelledby="dialog-title">
+    <button class="close" aria-label="Fechar">×</button>
+    <div id="form"></div>
+  </dialog>
+  <div role="status" id="toast"></div>
+  <script src="/art.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>

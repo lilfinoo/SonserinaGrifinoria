@@ -1,0 +1,5718 @@
+[
+  {
+    "name": "Mulan",
+    "work": "Mulan",
+    "house": "G",
+    "desc": "Toma o lugar do pai no exército.",
+    "why": "Enfrenta o perigo por uma convicção.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Jack Sparrow",
+    "work": "Piratas do Caribe",
+    "house": "S",
+    "desc": "Improvisa alianças para recuperar seu navio.",
+    "why": "Sempre encontra uma vantagem na negociação.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "Belle",
+    "work": "A Bela e a Fera",
+    "house": "C",
+    "desc": "Procura nos livros mundos além da aldeia.",
+    "why": "A curiosidade guia suas escolhas.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Samwise Gamgee",
+    "work": "O Senhor dos Anéis",
+    "house": "L",
+    "desc": "Acompanha Frodo até Mordor.",
+    "why": "Sua lealdade sustenta a jornada.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Leia Organa",
+    "work": "Star Wars",
+    "house": "G",
+    "desc": "Lidera a resistência diante do Império.",
+    "why": "Age mesmo quando o risco é enorme.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "Tony Stark",
+    "work": "Homem de Ferro",
+    "house": "C",
+    "desc": "Constrói armaduras e testa as próprias invenções.",
+    "why": "Resolve problemas pela engenharia.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Scar",
+    "work": "O Rei Leão",
+    "house": "S",
+    "desc": "Disputa o trono do irmão.",
+    "why": "Planeja cada passo para chegar ao poder.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Woody",
+    "work": "Toy Story",
+    "house": "L",
+    "desc": "Cuida dos brinquedos de Andy nas mudanças.",
+    "why": "Mantém o grupo unido.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Indiana Jones",
+    "work": "Indiana Jones",
+    "house": "G",
+    "desc": "Atravessa ruínas em busca de artefatos.",
+    "why": "Avança mesmo diante do perigo.",
+    "category": "Filmes"
+  },
+  {
+    "name": "Shuri",
+    "work": "Pantera Negra",
+    "house": "C",
+    "desc": "Desenvolve tecnologia nos laboratórios de Wakanda.",
+    "why": "Experimentar é sua forma de transformar o mundo.",
+    "category": "Filmes"
+  },
+  {
+    "name": "Tiana",
+    "work": "A Princesa e o Sapo",
+    "house": "L",
+    "desc": "Trabalha em turnos para abrir seu restaurante.",
+    "why": "Seu sonho depende de dedicação diária.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Jafar",
+    "work": "Aladdin",
+    "house": "S",
+    "desc": "Usa sua influência na corte de Agrabah.",
+    "why": "Busca poder por meio de alianças convenientes.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Moana",
+    "work": "Moana",
+    "house": "G",
+    "desc": "Cruza o recife para salvar sua ilha.",
+    "why": "Ousa partir quando todos hesitam.",
+    "category": "Filmes"
+  },
+  {
+    "name": "Velma Dinkley",
+    "work": "Scooby-Doo",
+    "house": "C",
+    "desc": "Examina pistas nas investigações da turma.",
+    "why": "Confia em evidências para resolver mistérios.",
+    "category": "Filmes"
+  },
+  {
+    "name": "Buzz Lightyear",
+    "work": "Toy Story",
+    "house": "G",
+    "desc": "Parte em missões para resgatar os amigos.",
+    "why": "Toma a iniciativa diante de ameaças.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Marlin",
+    "work": "Procurando Nemo",
+    "house": "L",
+    "desc": "Cruza o oceano atrás do filho.",
+    "why": "Sua dedicação a Nemo vence o cansaço.",
+    "category": "Filmes"
+  },
+  {
+    "name": "Gaston",
+    "work": "A Bela e a Fera",
+    "house": "S",
+    "desc": "Mobiliza a aldeia para conseguir o que deseja.",
+    "why": "Explora a própria influência.",
+    "category": "Filmes"
+  },
+  {
+    "name": "Doc Brown",
+    "work": "De Volta para o Futuro",
+    "house": "C",
+    "desc": "Transforma um DeLorean em máquina do tempo.",
+    "why": "Vive para testar novas ideias.",
+    "category": "Filmes"
+  },
+  {
+    "name": "Katniss Everdeen",
+    "work": "Jogos Vorazes",
+    "house": "G",
+    "desc": "Se oferece para ocupar o lugar da irmã na arena.",
+    "why": "Arrisca a vida para protegê-la.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Dory",
+    "work": "Procurando Nemo",
+    "house": "L",
+    "desc": "Segue ao lado de Marlin durante a busca.",
+    "why": "Oferece companhia quando ele pensa em desistir.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Walter White",
+    "work": "Breaking Bad",
+    "house": "S",
+    "desc": "Usa química para construir um império clandestino.",
+    "why": "A ambição passa a guiar suas decisões.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Tyrion Lannister",
+    "work": "Game of Thrones",
+    "house": "C",
+    "desc": "Usa livros e argumentos para navegar pela corte.",
+    "why": "O raciocínio é sua principal defesa.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Jon Snow",
+    "work": "Game of Thrones",
+    "house": "G",
+    "desc": "Defende a Muralha de ameaças além do Norte.",
+    "why": "Assume riscos por quem precisa de proteção.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Brienne de Tarth",
+    "work": "Game of Thrones",
+    "house": "L",
+    "desc": "Atravessa reinos para cumprir uma promessa.",
+    "why": "Sua palavra orienta suas escolhas.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Sherlock Holmes",
+    "work": "Sherlock",
+    "house": "C",
+    "desc": "Reconstrói crimes observando pequenos detalhes.",
+    "why": "Valoriza a dedução acima de tudo.",
+    "category": "Séries"
+  },
+  {
+    "name": "Saul Goodman",
+    "work": "Better Call Saul",
+    "house": "S",
+    "desc": "Encontra brechas para vencer disputas jurídicas.",
+    "why": "Transforma oportunidades em vantagem.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Eleven",
+    "work": "Stranger Things",
+    "house": "G",
+    "desc": "Enfrenta criaturas para defender Hawkins.",
+    "why": "Age apesar do medo.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Dustin Henderson",
+    "work": "Stranger Things",
+    "house": "C",
+    "desc": "Usa ciência e rádio para ajudar a turma.",
+    "why": "Procura explicações onde outros veem mistério.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Joey Tribbiani",
+    "work": "Friends",
+    "house": "L",
+    "desc": "Apoia os amigos enquanto tenta ser ator.",
+    "why": "Sempre aparece quando os amigos precisam.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Sheldon Cooper",
+    "work": "The Big Bang Theory",
+    "house": "C",
+    "desc": "Dedica seus dias à física teórica.",
+    "why": "Quer compreender as regras do universo.",
+    "category": "Séries",
+    "groups": [
+      "The Big Bang Theory e Young Sheldon"
+    ]
+  },
+  {
+    "name": "Cersei Lannister",
+    "work": "Game of Thrones",
+    "house": "S",
+    "desc": "Move aliados para conservar o trono.",
+    "why": "Faz planos guiados pelo poder.",
+    "category": "Séries"
+  },
+  {
+    "name": "Ned Stark",
+    "work": "Game of Thrones",
+    "house": "G",
+    "desc": "Defende seus princípios na corte de Porto Real.",
+    "why": "Fala mesmo quando sua posição corre perigo.",
+    "category": "Séries"
+  },
+  {
+    "name": "Leslie Knope",
+    "work": "Parks and Recreation",
+    "house": "L",
+    "desc": "Trabalha para melhorar os parques de Pawnee.",
+    "why": "Dedica tempo e energia à comunidade.",
+    "category": "Séries"
+  },
+  {
+    "name": "Spock",
+    "work": "Star Trek",
+    "house": "C",
+    "desc": "Examina as decisões a bordo da Enterprise.",
+    "why": "A lógica orienta seus julgamentos.",
+    "category": "Séries"
+  },
+  {
+    "name": "Rick Sánchez",
+    "work": "Rick and Morty",
+    "house": "C",
+    "desc": "Constrói máquinas para atravessar dimensões.",
+    "why": "Sua inventividade abre novos mundos.",
+    "category": "Séries"
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "work": "Game of Thrones",
+    "house": "S",
+    "desc": "Reúne seguidores para reivindicar o Trono de Ferro.",
+    "why": "Sua trajetória gira em torno de conquistar poder.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Steve Harrington",
+    "work": "Stranger Things",
+    "house": "G",
+    "desc": "Entra na linha de frente para proteger a turma.",
+    "why": "Enfrenta ameaças maiores que ele.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Ted Lasso",
+    "work": "Ted Lasso",
+    "house": "L",
+    "desc": "Treina um time inglês e conhece cada jogador.",
+    "why": "Cultiva confiança mesmo nas derrotas.",
+    "category": "Séries"
+  },
+  {
+    "name": "Lisa Simpson",
+    "work": "Os Simpsons",
+    "house": "C",
+    "desc": "Investiga ideias e questiona costumes de Springfield.",
+    "why": "Busca aprender antes de aceitar respostas.",
+    "category": "Séries",
+    "groups": [
+      "Os Simpsons"
+    ]
+  },
+  {
+    "name": "Michael Scott",
+    "work": "The Office",
+    "house": "L",
+    "desc": "Tenta transformar os colegas em uma família.",
+    "why": "O vínculo com a equipe é sua prioridade.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "work": "Naruto",
+    "house": "G",
+    "desc": "Enfrenta rivais para proteger sua vila.",
+    "why": "Insiste mesmo quando parece impossível.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Shikamaru Nara",
+    "work": "Naruto",
+    "house": "C",
+    "desc": "Enxerga batalhas como partidas de estratégia.",
+    "why": "Vence antecipando movimentos.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Light Yagami",
+    "work": "Death Note",
+    "house": "S",
+    "desc": "Usa um caderno para impor sua visão de justiça.",
+    "why": "Procura controlar o destino dos outros.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "L",
+    "work": "Death Note",
+    "house": "C",
+    "desc": "Investiga a identidade de Kira.",
+    "why": "Testa hipóteses até eliminar alternativas.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "Monkey D. Luffy",
+    "work": "One Piece",
+    "house": "G",
+    "desc": "Desafia grandes poderes por sua tripulação.",
+    "why": "Enfrenta qualquer risco pela liberdade.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Tony Tony Chopper",
+    "work": "One Piece",
+    "house": "L",
+    "desc": "Cuida da saúde dos Chapéus de Palha.",
+    "why": "Sua vocação é aliviar o sofrimento.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Nico Robin",
+    "work": "One Piece",
+    "house": "C",
+    "desc": "Decifra inscrições sobre um século esquecido.",
+    "why": "Dedica a vida ao conhecimento.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Freeza",
+    "work": "Dragon Ball",
+    "house": "S",
+    "desc": "Comanda um império que domina planetas.",
+    "why": "Sua meta é ampliar o próprio poder.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Goku",
+    "work": "Dragon Ball",
+    "house": "G",
+    "desc": "Enfrenta adversários que superam seus limites.",
+    "why": "Aceita desafios mesmo em desvantagem.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Bulma",
+    "work": "Dragon Ball",
+    "house": "C",
+    "desc": "Inventa um radar para localizar as esferas.",
+    "why": "Resolve obstáculos com engenhosidade.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Tanjiro Kamado",
+    "work": "Demon Slayer",
+    "house": "L",
+    "desc": "Viaja com a irmã em busca de uma cura.",
+    "why": "Sua dedicação à família orienta a jornada.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Inosuke Hashibira",
+    "work": "Demon Slayer",
+    "house": "G",
+    "desc": "Avança contra demônios com duas espadas.",
+    "why": "Seu primeiro impulso é enfrentar o perigo.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Senku Ishigami",
+    "work": "Dr. Stone",
+    "house": "C",
+    "desc": "Reconstrói tecnologias após a petrificação.",
+    "why": "Confia no método científico.",
+    "category": "Animes"
+  },
+  {
+    "name": "Izuku Midoriya",
+    "work": "My Hero Academia",
+    "house": "G",
+    "desc": "Corre para salvar pessoas antes de dominar seu poder.",
+    "why": "Age mesmo quando se sente despreparado.",
+    "category": "Animes",
+    "groups": [
+      "My Hero Academia"
+    ]
+  },
+  {
+    "name": "All Might",
+    "work": "My Hero Academia",
+    "house": "G",
+    "desc": "Protege civis como símbolo da paz.",
+    "why": "Se coloca entre o perigo e a população.",
+    "category": "Animes",
+    "groups": [
+      "My Hero Academia"
+    ]
+  },
+  {
+    "name": "Orochimaru",
+    "work": "Naruto",
+    "house": "S",
+    "desc": "Busca técnicas capazes de prolongar sua vida.",
+    "why": "Quebra limites para conquistar poder pessoal.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Brock",
+    "work": "Pokémon",
+    "house": "L",
+    "desc": "Prepara refeições e cuida dos Pokémon do grupo.",
+    "why": "Seu talento aparece no cuidado constante.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Ash Ketchum",
+    "work": "Pokémon",
+    "house": "G",
+    "desc": "Viaja com Pikachu desafiando ginásios.",
+    "why": "Arrisca tudo para proteger os parceiros.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Edward Elric",
+    "work": "Fullmetal Alchemist",
+    "house": "C",
+    "desc": "Pesquisa alquimia para recuperar o corpo do irmão.",
+    "why": "Estuda as leis que podem resolver o problema.",
+    "category": "Animes",
+    "groups": [
+      "Fullmetal Alchemist"
+    ]
+  },
+  {
+    "name": "Griffith",
+    "work": "Berserk",
+    "house": "S",
+    "desc": "Lidera um bando de mercenários e sonha com um reino.",
+    "why": "Subordina suas escolhas à própria ambição.",
+    "category": "Animes"
+  },
+  {
+    "name": "Marie Curie",
+    "work": "Ciência",
+    "house": "C",
+    "desc": "Pesquisou a radioatividade.",
+    "why": "Sua investigação abriu caminhos na física e na química.",
+    "category": "Famosos reais",
+    "groups": [
+      "Ciência e invenções"
+    ]
+  },
+  {
+    "name": "Albert Einstein",
+    "work": "Ciência",
+    "house": "C",
+    "desc": "Formulou a teoria da relatividade.",
+    "why": "Reimaginou como descrevemos espaço e tempo.",
+    "category": "Famosos reais",
+    "groups": [
+      "Ciência e invenções"
+    ]
+  },
+  {
+    "name": "Ada Lovelace",
+    "work": "Computação",
+    "house": "C",
+    "desc": "Escreveu notas sobre a máquina analítica.",
+    "why": "Explorou possibilidades de cálculo por máquinas.",
+    "category": "Famosos reais",
+    "groups": [
+      "Ciência e invenções"
+    ]
+  },
+  {
+    "name": "Santos Dumont",
+    "work": "Aviação",
+    "house": "C",
+    "desc": "Projetou e pilotou o 14-bis.",
+    "why": "Testou soluções para tornar o voo possível.",
+    "category": "Famosos reais",
+    "groups": [
+      "Ciência e invenções"
+    ]
+  },
+  {
+    "name": "Ayrton Senna",
+    "work": "Automobilismo",
+    "house": "G",
+    "desc": "Disputou corridas memoráveis na chuva.",
+    "why": "Sua condução em condições difíceis inspira a escolha.",
+    "category": "Famosos reais",
+    "groups": [
+      "Fórmula 1"
+    ]
+  },
+  {
+    "name": "Malala Yousafzai",
+    "work": "Educação",
+    "house": "G",
+    "desc": "Defende o acesso de meninas à escola.",
+    "why": "Continuou a falar sob ameaça.",
+    "category": "Famosos reais"
+  },
+  {
+    "name": "Rosa Parks",
+    "work": "Direitos civis",
+    "house": "G",
+    "desc": "Recusou ceder seu lugar em um ônibus segregado.",
+    "why": "Enfrentou uma regra injusta publicamente.",
+    "category": "Famosos reais"
+  },
+  {
+    "name": "Jane Goodall",
+    "work": "Ciência",
+    "house": "C",
+    "desc": "Observou chimpanzés em seu habitat.",
+    "why": "A observação paciente transformou sua área.",
+    "category": "Famosos reais",
+    "groups": [
+      "Ciência e invenções"
+    ]
+  },
+  {
+    "name": "Dolly Parton",
+    "work": "Música",
+    "house": "L",
+    "desc": "Criou um programa que distribui livros a crianças.",
+    "why": "O projeto mostra compromisso com a comunidade.",
+    "category": "Famosos reais"
+  },
+  {
+    "name": "Machado de Assis",
+    "work": "Literatura",
+    "house": "C",
+    "desc": "Criou narradores que desafiam a leitura dos fatos.",
+    "why": "A experimentação literária sustenta a escolha.",
+    "category": "Famosos reais",
+    "groups": [
+      "Literatura brasileira"
+    ]
+  },
+  {
+    "name": "Serena Williams",
+    "work": "Tênis",
+    "house": "S",
+    "desc": "Construiu uma carreira perseguindo títulos mundiais.",
+    "why": "Sua busca por conquistas ilustra a ambição esportiva.",
+    "category": "Famosos reais"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "work": "Futebol",
+    "house": "S",
+    "desc": "Perseguiu recordes em várias ligas europeias.",
+    "why": "A busca por novos patamares marca sua carreira pública.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Pelé",
+    "work": "Futebol",
+    "house": "C",
+    "desc": "Criou jogadas que marcaram gerações.",
+    "why": "O improviso em campo revela inventividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Marta",
+    "work": "Futebol",
+    "house": "G",
+    "desc": "Defendeu espaço para meninas no futebol.",
+    "why": "Usou a própria voz para desafiar barreiras.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Leonardo da Vinci",
+    "work": "Arte e ciência",
+    "house": "C",
+    "desc": "Encheu cadernos de estudos e invenções.",
+    "why": "Sua curiosidade atravessou disciplinas.",
+    "category": "Famosos reais"
+  },
+  {
+    "name": "Amelia Earhart",
+    "work": "Aviação",
+    "house": "G",
+    "desc": "Cruzou o Atlântico sozinha em um avião.",
+    "why": "Aceitou os riscos de um voo pioneiro.",
+    "category": "Famosos reais",
+    "groups": [
+      "Exploração e pioneirismo"
+    ]
+  },
+  {
+    "name": "Louis Braille",
+    "work": "Educação",
+    "house": "C",
+    "desc": "Desenvolveu um sistema de leitura pelo tato.",
+    "why": "Resolveu um problema por meio da invenção.",
+    "category": "Famosos reais"
+  },
+  {
+    "name": "José Andrés",
+    "work": "Gastronomia",
+    "house": "L",
+    "desc": "Organizou cozinhas para atender vítimas de desastres.",
+    "why": "Colocou a alimentação a serviço de comunidades.",
+    "category": "Famosos reais"
+  },
+  {
+    "name": "Walt Disney",
+    "work": "Cinema",
+    "house": "S",
+    "desc": "Expandiu um estúdio de animação para parques temáticos.",
+    "why": "A escala de seus projetos mostra ambição criativa.",
+    "category": "Famosos reais"
+  },
+  {
+    "name": "Katherine Johnson",
+    "work": "Matemática",
+    "house": "C",
+    "desc": "Calculou trajetórias para missões espaciais.",
+    "why": "Aplicou raciocínio matemático a novos desafios.",
+    "category": "Famosos reais",
+    "groups": [
+      "Ciência e invenções"
+    ]
+  },
+  {
+    "name": "Loki",
+    "work": "Universo Marvel",
+    "house": "S",
+    "desc": "Improvisa alianças para conquistar influência em Asgard.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Capitão América",
+    "work": "Universo Marvel",
+    "house": "G",
+    "desc": "Defende seus princípios mesmo diante das autoridades.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Viúva Negra",
+    "work": "Universo Marvel",
+    "house": "S",
+    "desc": "Usa disfarces e negociação para ganhar vantagem em missões.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Groot",
+    "work": "Universo Marvel",
+    "house": "L",
+    "desc": "Protege com dedicação a família que encontrou no espaço.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Batman",
+    "work": "Universo DC",
+    "house": "C",
+    "desc": "Investiga crimes e prepara ferramentas para cada missão.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Mulher-Maravilha",
+    "work": "Universo DC",
+    "house": "G",
+    "desc": "Deixa sua ilha para defender pessoas em meio à guerra.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Coringa",
+    "work": "Universo DC",
+    "house": "S",
+    "desc": "Manipula seus adversários para controlar o rumo de Gotham.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Superman",
+    "work": "Universo DC",
+    "house": "G",
+    "desc": "Entra em ação quando Metrópolis corre perigo.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Alfred Pennyworth",
+    "work": "Universo DC",
+    "house": "L",
+    "desc": "Cuida de Bruce Wayne e sustenta sua missão ao longo dos anos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Hermione Granger",
+    "work": "Harry Potter",
+    "house": "G",
+    "desc": "Usa seus estudos para enfrentar perigos ao lado dos amigos.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Draco Malfoy",
+    "work": "Harry Potter",
+    "house": "S",
+    "desc": "Valoriza a influência de sua família e busca reconhecimento em Hogwarts.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Luna Lovegood",
+    "work": "Harry Potter",
+    "house": "C",
+    "desc": "Explora ideias que o resto da escola costuma descartar.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Harry Potter",
+    "work": "Harry Potter",
+    "house": "G",
+    "desc": "Enfrenta Voldemort para proteger as pessoas ao seu redor.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Cedrico Diggory",
+    "work": "Harry Potter",
+    "house": "L",
+    "desc": "Procura competir com justiça no Torneio Tribruxo.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Han Solo",
+    "work": "Star Wars",
+    "house": "G",
+    "desc": "Volta para ajudar a Rebelião quando seus amigos correm perigo.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "Darth Vader",
+    "work": "Star Wars",
+    "house": "S",
+    "desc": "Usa sua posição no Império para impor sua vontade.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "Yoda",
+    "work": "Star Wars",
+    "house": "C",
+    "desc": "Ensina gerações de Jedi a observar antes de agir.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "Chewbacca",
+    "work": "Star Wars",
+    "house": "L",
+    "desc": "Acompanha seus companheiros mesmo nas missões mais arriscadas.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "Gandalf",
+    "work": "O Senhor dos Anéis e O Hobbit",
+    "house": "C",
+    "desc": "Estuda a história dos anéis antes de orientar a Sociedade.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Thorin Escudo de Carvalho",
+    "work": "O Senhor dos Anéis e O Hobbit",
+    "house": "S",
+    "desc": "Reúne uma companhia para recuperar o trono de Erebor.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Aragorn",
+    "work": "O Senhor dos Anéis e O Hobbit",
+    "house": "G",
+    "desc": "Lidera a defesa dos povos livres diante de Sauron.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Merry Brandybuck",
+    "work": "O Senhor dos Anéis e O Hobbit",
+    "house": "L",
+    "desc": "Apoia os amigos ao longo de toda a jornada.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Elizabeth Swann",
+    "work": "Piratas do Caribe",
+    "house": "G",
+    "desc": "Assume o comando diante de uma batalha aparentemente perdida.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "Hector Barbossa",
+    "work": "Piratas do Caribe",
+    "house": "S",
+    "desc": "Troca de alianças conforme seus planos para o Pérola Negra.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "Will Turner",
+    "work": "Piratas do Caribe",
+    "house": "G",
+    "desc": "Enfrenta piratas e criaturas do mar para resgatar Elizabeth.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "Gibbs",
+    "work": "Piratas do Caribe",
+    "house": "L",
+    "desc": "Segue ao lado de Jack mesmo após sucessivos contratempos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "Peeta Mellark",
+    "work": "Jogos Vorazes",
+    "house": "L",
+    "desc": "Protege Katniss e tenta preservar sua humanidade no jogo.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Presidente Snow",
+    "work": "Jogos Vorazes",
+    "house": "S",
+    "desc": "Usa os Jogos para manter o controle de Panem.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Haymitch Abernathy",
+    "work": "Jogos Vorazes",
+    "house": "S",
+    "desc": "Negocia com patrocinadores e explora as regras da arena.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Beetee",
+    "work": "Jogos Vorazes",
+    "house": "C",
+    "desc": "Aplica conhecimentos de eletrônica aos desafios da arena.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Dominic Toretto",
+    "work": "Velozes e Furiosos",
+    "house": "L",
+    "desc": "Coloca a segurança da sua família no centro de suas decisões.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Brian O’Conner",
+    "work": "Velozes e Furiosos",
+    "house": "G",
+    "desc": "Arrisca sua carreira e a própria vida para ajudar a equipe.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Letty Ortiz",
+    "work": "Velozes e Furiosos",
+    "house": "G",
+    "desc": "Enfrenta perseguições ao volante em condições extremas.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Tej Parker",
+    "work": "Velozes e Furiosos",
+    "house": "C",
+    "desc": "Projeta soluções técnicas para as missões do grupo.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Deckard Shaw",
+    "work": "Velozes e Furiosos",
+    "house": "S",
+    "desc": "Usa contatos e estratégia para alcançar seus objetivos.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Edna Moda",
+    "work": "Pixar",
+    "house": "C",
+    "desc": "Testa tecidos e tecnologias para criar trajes resistentes.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Alegria",
+    "work": "Pixar",
+    "house": "L",
+    "desc": "Insiste em cuidar de Riley quando suas emoções mudam.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Shrek",
+    "work": "Shrek",
+    "house": "G",
+    "desc": "Enfrenta um dragão numa missão que acaba mudando sua vida.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Shrek"
+    ]
+  },
+  {
+    "name": "Fiona",
+    "work": "Shrek",
+    "house": "G",
+    "desc": "Luta para defender a família e o pântano.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Shrek"
+    ]
+  },
+  {
+    "name": "Fada Madrinha",
+    "work": "Shrek",
+    "house": "S",
+    "desc": "Articula um casamento para colocar o filho no trono.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Shrek"
+    ]
+  },
+  {
+    "name": "Burro",
+    "work": "Shrek",
+    "house": "L",
+    "desc": "Fica ao lado de Shrek mesmo quando a viagem fica perigosa.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Shrek"
+    ]
+  },
+  {
+    "name": "Gato de Botas",
+    "work": "Shrek",
+    "house": "G",
+    "desc": "Aceita duelos e aventuras para defender seus companheiros.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Shrek"
+    ]
+  },
+  {
+    "name": "Po",
+    "work": "Kung Fu Panda",
+    "house": "L",
+    "desc": "Treina todos os dias e encontra força nos vínculos com a equipe.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Mestra Tigresa",
+    "work": "Kung Fu Panda",
+    "house": "G",
+    "desc": "Entra na linha de frente diante das maiores ameaças ao vale.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Mestre Shifu",
+    "work": "Kung Fu Panda",
+    "house": "C",
+    "desc": "Adapta seu método de treino após observar os talentos de Po.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Tai Lung",
+    "work": "Kung Fu Panda",
+    "house": "S",
+    "desc": "Persegue o título de Dragão Guerreiro a qualquer custo.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Mestre Oogway",
+    "work": "Kung Fu Panda",
+    "house": "C",
+    "desc": "Orienta seus alunos por meio da observação e da reflexão.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Soluço",
+    "work": "Como Treinar o Seu Dragão",
+    "house": "C",
+    "desc": "Estuda o comportamento dos dragões e inventa novas ferramentas.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Como Treinar o Seu Dragão"
+    ]
+  },
+  {
+    "name": "Astrid Hofferson",
+    "work": "Como Treinar o Seu Dragão",
+    "house": "G",
+    "desc": "Vai ao encontro de ameaças para defender Berk.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Como Treinar o Seu Dragão"
+    ]
+  },
+  {
+    "name": "Melequento",
+    "work": "Como Treinar o Seu Dragão",
+    "house": "S",
+    "desc": "Busca prestígio entre os cavaleiros e quer se destacar.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Como Treinar o Seu Dragão"
+    ]
+  },
+  {
+    "name": "Banguela",
+    "work": "Como Treinar o Seu Dragão",
+    "house": "L",
+    "desc": "Cria um vínculo com Soluço e permanece ao seu lado.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Como Treinar o Seu Dragão"
+    ]
+  },
+  {
+    "name": "Stoico",
+    "work": "Como Treinar o Seu Dragão",
+    "house": "G",
+    "desc": "Lidera seu povo na linha de frente.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Como Treinar o Seu Dragão"
+    ]
+  },
+  {
+    "name": "Alan Grant",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "C",
+    "desc": "Usa a paleontologia para entender os dinossauros do parque.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "Ellie Sattler",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "G",
+    "desc": "Sai em campo para salvar os outros quando os sistemas falham.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "Ian Malcolm",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "C",
+    "desc": "Aplica a teoria do caos ao projeto do parque.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "John Hammond",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "S",
+    "desc": "Reúne recursos para transformar sua visão num empreendimento mundial.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "Owen Grady",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "L",
+    "desc": "Constrói confiança com os velociraptores por meio do trabalho diário.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "Jesse Pinkman",
+    "work": "Breaking Bad e Better Call Saul",
+    "house": "L",
+    "desc": "Cria vínculos com pessoas que tenta proteger ao longo da série.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Kim Wexler",
+    "work": "Breaking Bad e Better Call Saul",
+    "house": "S",
+    "desc": "Usa sua habilidade jurídica para alterar o rumo de negociações.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Gus Fring",
+    "work": "Breaking Bad e Better Call Saul",
+    "house": "S",
+    "desc": "Administra uma rede clandestina com planejamento cuidadoso.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Rhaenyra Targaryen",
+    "work": "Game of Thrones e House of the Dragon",
+    "house": "S",
+    "desc": "Constrói alianças para defender sua reivindicação ao trono.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Joyce Byers",
+    "work": "Stranger Things",
+    "house": "L",
+    "desc": "Insiste na busca pelo filho mesmo quando ninguém acredita nela.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Robin Buckley",
+    "work": "Stranger Things",
+    "house": "C",
+    "desc": "Ajuda a decifrar mensagens e encontrar pistas escondidas.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Monica Geller",
+    "work": "Friends",
+    "house": "L",
+    "desc": "Organiza encontros e se dedica a cuidar da turma.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Phoebe Buffay",
+    "work": "Friends",
+    "house": "C",
+    "desc": "Cria músicas e encontra interpretações inesperadas para situações comuns.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Ross Geller",
+    "work": "Friends",
+    "house": "C",
+    "desc": "Estuda fósseis e adora explicar o que aprendeu.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Rachel Green",
+    "work": "Friends",
+    "house": "S",
+    "desc": "Constrói uma carreira na moda depois de recomeçar por conta própria.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Dwight Schrute",
+    "work": "The Office",
+    "house": "S",
+    "desc": "Busca subir na hierarquia da empresa.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Pam Beesly",
+    "work": "The Office",
+    "house": "C",
+    "desc": "Explora desenho e arte dentro e fora do escritório.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Jim Halpert",
+    "work": "The Office",
+    "house": "C",
+    "desc": "Planeja pegadinhas criativas para quebrar a rotina.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Angela Martin",
+    "work": "The Office",
+    "house": "L",
+    "desc": "Mantém suas responsabilidades com disciplina e constância.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Jake Peralta",
+    "work": "Brooklyn Nine-Nine",
+    "house": "G",
+    "desc": "Assume riscos para resolver casos difíceis.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Amy Santiago",
+    "work": "Brooklyn Nine-Nine",
+    "house": "C",
+    "desc": "Estuda procedimentos e monta fichários para organizar investigações.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Capitão Holt",
+    "work": "Brooklyn Nine-Nine",
+    "house": "C",
+    "desc": "Usa análise cuidadosa para orientar a delegacia.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Terry Jeffords",
+    "work": "Brooklyn Nine-Nine",
+    "house": "L",
+    "desc": "Cuida da equipe e da família com dedicação.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Gina Linetti",
+    "work": "Brooklyn Nine-Nine",
+    "house": "S",
+    "desc": "Transforma sua influência social em oportunidades.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Penny",
+    "work": "The Big Bang Theory e Young Sheldon",
+    "house": "G",
+    "desc": "Muda de cidade e encara recomeços na carreira.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "The Big Bang Theory e Young Sheldon"
+    ]
+  },
+  {
+    "name": "Amy Farrah Fowler",
+    "work": "The Big Bang Theory e Young Sheldon",
+    "house": "C",
+    "desc": "Investiga como o cérebro funciona.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "The Big Bang Theory e Young Sheldon"
+    ]
+  },
+  {
+    "name": "Leonard Hofstadter",
+    "work": "The Big Bang Theory e Young Sheldon",
+    "house": "C",
+    "desc": "Testa hipóteses em experimentos de física.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "The Big Bang Theory e Young Sheldon"
+    ]
+  },
+  {
+    "name": "Mary Cooper",
+    "work": "The Big Bang Theory e Young Sheldon",
+    "house": "L",
+    "desc": "Cuida dos filhos e ampara Sheldon em momentos difíceis.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Big Bang Theory e Young Sheldon"
+    ]
+  },
+  {
+    "name": "Professor",
+    "work": "La Casa de Papel",
+    "house": "S",
+    "desc": "Planeja cada etapa dos assaltos e prepara respostas para imprevistos.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "La Casa de Papel"
+    ]
+  },
+  {
+    "name": "Berlim",
+    "work": "La Casa de Papel",
+    "house": "S",
+    "desc": "Usa carisma e controle para impor suas decisões.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "La Casa de Papel"
+    ]
+  },
+  {
+    "name": "Nairóbi",
+    "work": "La Casa de Papel",
+    "house": "L",
+    "desc": "Mantém o grupo de trabalho unido sob pressão.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "La Casa de Papel"
+    ]
+  },
+  {
+    "name": "Tóquio",
+    "work": "La Casa de Papel",
+    "house": "G",
+    "desc": "Age rapidamente quando o plano entra em crise.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "La Casa de Papel"
+    ]
+  },
+  {
+    "name": "Rio",
+    "work": "La Casa de Papel",
+    "house": "C",
+    "desc": "Usa programação e eletrônica para apoiar os assaltos.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "La Casa de Papel"
+    ]
+  },
+  {
+    "name": "Rick Grimes",
+    "work": "The Walking Dead",
+    "house": "G",
+    "desc": "Assume riscos para tirar sobreviventes de situações perigosas.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Carol Peletier",
+    "work": "The Walking Dead",
+    "house": "S",
+    "desc": "Usa disfarces e estratégia para antecipar ameaças.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Negan",
+    "work": "The Walking Dead",
+    "house": "S",
+    "desc": "Mantém influência sobre diferentes comunidades.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Daryl Dixon",
+    "work": "The Walking Dead",
+    "house": "L",
+    "desc": "Permanece ao lado do grupo nas situações mais difíceis.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Michonne",
+    "work": "The Walking Dead",
+    "house": "G",
+    "desc": "Enfrenta ameaças de perto para defender quem está com ela.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Billy Butcher",
+    "work": "The Boys",
+    "house": "S",
+    "desc": "Monta planos e alianças para enfrentar a Vought.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "The Boys"
+    ]
+  },
+  {
+    "name": "Luz-Estrela",
+    "work": "The Boys",
+    "house": "G",
+    "desc": "Denuncia abusos mesmo sob pressão pública.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "The Boys"
+    ]
+  },
+  {
+    "name": "Capitão Pátria",
+    "work": "The Boys",
+    "house": "S",
+    "desc": "Procura controlar sua imagem e a liderança dos Sete.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "The Boys"
+    ]
+  },
+  {
+    "name": "Hughie Campbell",
+    "work": "The Boys",
+    "house": "L",
+    "desc": "Apoia os companheiros mesmo quando não tem poderes.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Boys"
+    ]
+  },
+  {
+    "name": "Frenchie",
+    "work": "The Boys",
+    "house": "C",
+    "desc": "Improvisa ferramentas e soluções químicas para as missões.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "The Boys"
+    ]
+  },
+  {
+    "name": "Johnny Lawrence",
+    "work": "Cobra Kai",
+    "house": "G",
+    "desc": "Reabre um dojô e assume riscos para formar novos alunos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "Daniel LaRusso",
+    "work": "Cobra Kai",
+    "house": "L",
+    "desc": "Mantém vivos os ensinamentos de seu mentor.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "Miguel Diaz",
+    "work": "Cobra Kai",
+    "house": "G",
+    "desc": "Entra no karatê para encarar seus medos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "Samantha LaRusso",
+    "work": "Cobra Kai",
+    "house": "G",
+    "desc": "Volta às competições depois de enfrentar dificuldades.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "Terry Silver",
+    "work": "Cobra Kai",
+    "house": "S",
+    "desc": "Usa dinheiro e contatos para expandir seu dojô.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "Homer Simpson",
+    "work": "Os Simpsons",
+    "house": "L",
+    "desc": "Volta para a família quando seus planos desandam.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Os Simpsons"
+    ]
+  },
+  {
+    "name": "Sr. Burns",
+    "work": "Os Simpsons",
+    "house": "S",
+    "desc": "Usa sua riqueza para ampliar poder e influência.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Os Simpsons"
+    ]
+  },
+  {
+    "name": "Marge Simpson",
+    "work": "Os Simpsons",
+    "house": "L",
+    "desc": "Mantém a casa e os vínculos familiares em meio ao caos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Os Simpsons"
+    ]
+  },
+  {
+    "name": "Bart Simpson",
+    "work": "Os Simpsons",
+    "house": "G",
+    "desc": "Entra em aventuras movido pela ousadia.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Os Simpsons"
+    ]
+  },
+  {
+    "name": "Aang",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "L",
+    "desc": "Procura proteger seus amigos sem abrir mão do pacifismo.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Toph Beifong",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "G",
+    "desc": "Desafia adversários e enfrenta perigos a seu modo.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Zuko",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "G",
+    "desc": "Enfrenta a própria família para seguir novas convicções.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Katara",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "L",
+    "desc": "Cuida do grupo e transmite o que aprende sobre cura.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Sokka",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "C",
+    "desc": "Inventa ferramentas e cria estratégias para a equipe.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Vegeta",
+    "work": "Dragon Ball",
+    "house": "S",
+    "desc": "Treina para superar os rivais e provar seu poder.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Kuririn",
+    "work": "Dragon Ball",
+    "house": "L",
+    "desc": "Continua a ajudar os amigos mesmo em combates desiguais.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "work": "Naruto",
+    "house": "S",
+    "desc": "Escolhe alianças que o aproximam de seus objetivos.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Hinata Hyuga",
+    "work": "Naruto",
+    "house": "G",
+    "desc": "Enfrenta o medo para defender Naruto em batalha.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Nami",
+    "work": "One Piece",
+    "house": "S",
+    "desc": "Negocia e improvisa para salvar a tripulação e seus recursos.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Roronoa Zoro",
+    "work": "One Piece",
+    "house": "G",
+    "desc": "Aceita desafios perigosos para cumprir suas promessas.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Misty",
+    "work": "Pokémon",
+    "house": "G",
+    "desc": "Enfrenta desafios para mostrar a força dos Pokémon aquáticos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Jessie",
+    "work": "Pokémon",
+    "house": "S",
+    "desc": "Inventa disfarces e planos para capturar Pokémon raros.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Pikachu",
+    "work": "Pokémon",
+    "house": "L",
+    "desc": "Permanece ao lado de Ash ao longo das viagens.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Misa Amane",
+    "work": "Death Note",
+    "house": "L",
+    "desc": "Coloca o vínculo com Light no centro de suas escolhas.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "Near",
+    "work": "Death Note",
+    "house": "C",
+    "desc": "Reconstrói o caso combinando pistas e cenários.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "Soichiro Yagami",
+    "work": "Death Note",
+    "house": "G",
+    "desc": "Acompanha a investigação de Kira mesmo sob ameaça direta.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "Eren Yeager",
+    "work": "Attack on Titan",
+    "house": "G",
+    "desc": "Desafia limites para perseguir sua ideia de liberdade.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Armin Arlert",
+    "work": "Attack on Titan",
+    "house": "C",
+    "desc": "Reformula planos ao entender os pontos fracos dos inimigos.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Erwin Smith",
+    "work": "Attack on Titan",
+    "house": "S",
+    "desc": "Coordena operações movido pela busca de respostas.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Mikasa Ackerman",
+    "work": "Attack on Titan",
+    "house": "L",
+    "desc": "Permanece perto de quem considera família mesmo em combate.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Levi Ackerman",
+    "work": "Attack on Titan",
+    "house": "G",
+    "desc": "Assume as missões mais perigosas da tropa.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Shinobu Kocho",
+    "work": "Demon Slayer",
+    "house": "C",
+    "desc": "Estuda toxinas para criar técnicas de combate.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Nezuko Kamado",
+    "work": "Demon Slayer",
+    "house": "L",
+    "desc": "Protege o irmão e seus companheiros ao longo da viagem.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Kyojuro Rengoku",
+    "work": "Demon Slayer",
+    "house": "G",
+    "desc": "Enfrenta ameaças para proteger os passageiros de um trem.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Katsuki Bakugo",
+    "work": "My Hero Academia",
+    "house": "S",
+    "desc": "Treina para ocupar o posto de número um.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Animes",
+    "groups": [
+      "My Hero Academia"
+    ]
+  },
+  {
+    "name": "Mei Hatsume",
+    "work": "My Hero Academia",
+    "house": "C",
+    "desc": "Constrói protótipos para testar em campo.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "My Hero Academia"
+    ]
+  },
+  {
+    "name": "Ochaco Uraraka",
+    "work": "My Hero Academia",
+    "house": "L",
+    "desc": "Treina para amparar a família e ajudar pessoas em perigo.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "My Hero Academia"
+    ]
+  },
+  {
+    "name": "Yuji Itadori",
+    "work": "Jujutsu Kaisen",
+    "house": "G",
+    "desc": "Aceita riscos pessoais para salvar colegas.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  },
+  {
+    "name": "Satoru Gojo",
+    "work": "Jujutsu Kaisen",
+    "house": "C",
+    "desc": "Entende técnicas complexas e reinventa seu uso em combate.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  },
+  {
+    "name": "Kento Nanami",
+    "work": "Jujutsu Kaisen",
+    "house": "L",
+    "desc": "Protege os colegas mais jovens e cumpre suas responsabilidades.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  },
+  {
+    "name": "Megumi Fushiguro",
+    "work": "Jujutsu Kaisen",
+    "house": "C",
+    "desc": "Avalia as possibilidades de cada invocação antes de agir.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "work": "Jujutsu Kaisen",
+    "house": "G",
+    "desc": "Enfrenta maldições mantendo suas convicções.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  },
+  {
+    "name": "Alphonse Elric",
+    "work": "Fullmetal Alchemist",
+    "house": "L",
+    "desc": "Apoia Edward e tenta proteger quem cruza seu caminho.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Fullmetal Alchemist"
+    ]
+  },
+  {
+    "name": "Roy Mustang",
+    "work": "Fullmetal Alchemist",
+    "house": "S",
+    "desc": "Constrói alianças para mudar o país a partir do comando.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Animes",
+    "groups": [
+      "Fullmetal Alchemist"
+    ]
+  },
+  {
+    "name": "Winry Rockbell",
+    "work": "Fullmetal Alchemist",
+    "house": "C",
+    "desc": "Ajusta e melhora próteses mecânicas.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Fullmetal Alchemist"
+    ]
+  },
+  {
+    "name": "Riza Hawkeye",
+    "work": "Fullmetal Alchemist",
+    "house": "L",
+    "desc": "Mantém seu compromisso com a equipe nos momentos mais difíceis.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Fullmetal Alchemist"
+    ]
+  },
+  {
+    "name": "Gon Freecss",
+    "work": "Hunter × Hunter",
+    "house": "G",
+    "desc": "Aceita desafios perigosos para descobrir o paradeiro do pai.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Hunter × Hunter"
+    ]
+  },
+  {
+    "name": "Killua Zoldyck",
+    "work": "Hunter × Hunter",
+    "house": "L",
+    "desc": "Escolhe acompanhar Gon e proteger os amigos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Hunter × Hunter"
+    ]
+  },
+  {
+    "name": "Kurapika",
+    "work": "Hunter × Hunter",
+    "house": "S",
+    "desc": "Prepara alianças e técnicas para alcançar seu objetivo.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Animes",
+    "groups": [
+      "Hunter × Hunter"
+    ]
+  },
+  {
+    "name": "Leorio Paradinight",
+    "work": "Hunter × Hunter",
+    "house": "L",
+    "desc": "Busca formação médica para ajudar quem precisa.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Hunter × Hunter"
+    ]
+  },
+  {
+    "name": "Biscuit Krueger",
+    "work": "Hunter × Hunter",
+    "house": "C",
+    "desc": "Observa os alunos e adapta o treino às fraquezas de cada um.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Hunter × Hunter"
+    ]
+  },
+  {
+    "name": "Seiya de Pégaso",
+    "work": "Cavaleiros do Zodíaco",
+    "house": "G",
+    "desc": "Levanta para lutar mesmo diante de adversários superiores.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Cavaleiros do Zodíaco"
+    ]
+  },
+  {
+    "name": "Shiryu de Dragão",
+    "work": "Cavaleiros do Zodíaco",
+    "house": "G",
+    "desc": "Corre riscos pessoais para proteger os companheiros.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Cavaleiros do Zodíaco"
+    ]
+  },
+  {
+    "name": "Ikki de Fênix",
+    "work": "Cavaleiros do Zodíaco",
+    "house": "G",
+    "desc": "Assume batalhas difíceis mesmo quando está sozinho.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Cavaleiros do Zodíaco"
+    ]
+  },
+  {
+    "name": "Shun de Andrômeda",
+    "work": "Cavaleiros do Zodíaco",
+    "house": "L",
+    "desc": "Prefere evitar ferir os outros e protege seus amigos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Cavaleiros do Zodíaco"
+    ]
+  },
+  {
+    "name": "Mu de Áries",
+    "work": "Cavaleiros do Zodíaco",
+    "house": "C",
+    "desc": "Conhece as técnicas necessárias para reparar armaduras.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Cavaleiros do Zodíaco"
+    ]
+  },
+  {
+    "name": "Usagi Tsukino",
+    "work": "Sailor Moon",
+    "house": "G",
+    "desc": "Enfrenta inimigos mesmo quando está assustada.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Sailor Moon"
+    ]
+  },
+  {
+    "name": "Ami Mizuno",
+    "work": "Sailor Moon",
+    "house": "C",
+    "desc": "Usa observação e tecnologia para entender as ameaças.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Sailor Moon"
+    ]
+  },
+  {
+    "name": "Rei Hino",
+    "work": "Sailor Moon",
+    "house": "G",
+    "desc": "Toma a iniciativa quando percebe perigo.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Sailor Moon"
+    ]
+  },
+  {
+    "name": "Makoto Kino",
+    "work": "Sailor Moon",
+    "house": "L",
+    "desc": "Cuida das amigas e oferece apoio prático.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Sailor Moon"
+    ]
+  },
+  {
+    "name": "Minako Aino",
+    "work": "Sailor Moon",
+    "house": "G",
+    "desc": "Assume missões arriscadas para defender a equipe.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Sailor Moon"
+    ]
+  },
+  {
+    "name": "Ronaldinho Gaúcho",
+    "work": "Futebol brasileiro",
+    "house": "C",
+    "desc": "Criou soluções improvisadas para dribles e passes.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Ronaldo Fenômeno",
+    "work": "Futebol brasileiro",
+    "house": "G",
+    "desc": "Voltou a disputar Copas depois de lesões graves.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Zico",
+    "work": "Futebol brasileiro",
+    "house": "L",
+    "desc": "Manteve um vínculo duradouro com o Flamengo e o ensino do futebol.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Lionel Messi",
+    "work": "Futebol internacional",
+    "house": "C",
+    "desc": "Encontra passes e dribles em espaços apertados.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Kylian Mbappé",
+    "work": "Futebol internacional",
+    "house": "S",
+    "desc": "Assumiu a meta pública de conquistar títulos e marcas de elite.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Luka Modrić",
+    "work": "Futebol internacional",
+    "house": "C",
+    "desc": "Organiza o meio-campo lendo espaços e ritmo.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Andrés Iniesta",
+    "work": "Futebol internacional",
+    "house": "C",
+    "desc": "Busca soluções criativas com toques curtos e visão de jogo.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Lewis Hamilton",
+    "work": "Fórmula 1",
+    "house": "G",
+    "desc": "Usou sua presença no esporte para defender mudanças publicamente.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Fórmula 1"
+    ]
+  },
+  {
+    "name": "Niki Lauda",
+    "work": "Fórmula 1",
+    "house": "G",
+    "desc": "Voltou a correr semanas após um grave acidente.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Fórmula 1"
+    ]
+  },
+  {
+    "name": "Michael Schumacher",
+    "work": "Fórmula 1",
+    "house": "S",
+    "desc": "Reuniu esforços para levar a Ferrari de volta aos títulos.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Famosos reais",
+    "groups": [
+      "Fórmula 1"
+    ]
+  },
+  {
+    "name": "Alain Prost",
+    "work": "Fórmula 1",
+    "house": "C",
+    "desc": "Ficou conhecido por calcular ritmo e desgaste durante as corridas.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Fórmula 1"
+    ]
+  },
+  {
+    "name": "Michael Jordan",
+    "work": "Basquete",
+    "house": "S",
+    "desc": "Transformou metas competitivas em uma busca constante por títulos.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Famosos reais",
+    "groups": [
+      "Basquete"
+    ]
+  },
+  {
+    "name": "LeBron James",
+    "work": "Basquete",
+    "house": "L",
+    "desc": "Fundou iniciativas de educação em sua cidade natal.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Basquete"
+    ]
+  },
+  {
+    "name": "Magic Johnson",
+    "work": "Basquete",
+    "house": "C",
+    "desc": "Mudou a dinâmica das partidas com passes imaginativos.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Basquete"
+    ]
+  },
+  {
+    "name": "Stephen Curry",
+    "work": "Basquete",
+    "house": "C",
+    "desc": "Transformou o modo como equipes usam arremessos de longa distância.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Basquete"
+    ]
+  },
+  {
+    "name": "Kareem Abdul-Jabbar",
+    "work": "Basquete",
+    "house": "G",
+    "desc": "Assumiu posições públicas sobre questões sociais durante a carreira esportiva.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Basquete"
+    ]
+  },
+  {
+    "name": "Rebeca Andrade",
+    "work": "Olimpíadas",
+    "house": "L",
+    "desc": "Retomou a preparação após cirurgias e voltou aos pódios.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Olimpíadas"
+    ]
+  },
+  {
+    "name": "Simone Biles",
+    "work": "Olimpíadas",
+    "house": "G",
+    "desc": "Tomou decisões difíceis sob pressão e voltou a competir.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Olimpíadas"
+    ]
+  },
+  {
+    "name": "Usain Bolt",
+    "work": "Olimpíadas",
+    "house": "S",
+    "desc": "Perseguiu marcas mundiais nos cem e duzentos metros.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Famosos reais",
+    "groups": [
+      "Olimpíadas"
+    ]
+  },
+  {
+    "name": "Michael Phelps",
+    "work": "Olimpíadas",
+    "house": "L",
+    "desc": "Manteve anos de treinamento para disputar provas variadas.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Olimpíadas"
+    ]
+  },
+  {
+    "name": "Daiane dos Santos",
+    "work": "Olimpíadas",
+    "house": "C",
+    "desc": "Apresentou movimentos originais que receberam seu nome.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Olimpíadas"
+    ]
+  },
+  {
+    "name": "Anitta",
+    "work": "Música brasileira",
+    "house": "S",
+    "desc": "Planejou sua expansão para públicos internacionais.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Gilberto Gil",
+    "work": "Música brasileira",
+    "house": "C",
+    "desc": "Misturou tradições brasileiras com estilos de diversos países.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Rita Lee",
+    "work": "Música brasileira",
+    "house": "C",
+    "desc": "Experimentou sons, personagens e maneiras de escrever sobre o cotidiano.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Elza Soares",
+    "work": "Música brasileira",
+    "house": "G",
+    "desc": "Cantou sobre temas difíceis e abriu espaço para novas vozes.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Marisa Monte",
+    "work": "Música brasileira",
+    "house": "L",
+    "desc": "Colaborou por anos com artistas e compositores brasileiros.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Beyoncé",
+    "work": "Pop internacional",
+    "house": "S",
+    "desc": "Assumiu controle criativo de grandes turnês e projetos visuais.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Taylor Swift",
+    "work": "Pop internacional",
+    "house": "S",
+    "desc": "Organizou a regravação de discos para recuperar o controle das gravações.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Lady Gaga",
+    "work": "Pop internacional",
+    "house": "C",
+    "desc": "Mistura música, figurino e performance em personagens de palco.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Madonna",
+    "work": "Pop internacional",
+    "house": "G",
+    "desc": "Enfrentou reações públicas ao tratar de temas controversos em sua obra.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Adele",
+    "work": "Pop internacional",
+    "house": "L",
+    "desc": "Mantém um trabalho constante de composição em torno de experiências pessoais.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Clarice Lispector",
+    "work": "Literatura brasileira",
+    "house": "C",
+    "desc": "Experimentou maneiras de escrever sobre a vida interior.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Literatura brasileira"
+    ]
+  },
+  {
+    "name": "Conceição Evaristo",
+    "work": "Literatura brasileira",
+    "house": "G",
+    "desc": "Usou a literatura para dar visibilidade a experiências frequentemente ignoradas.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Literatura brasileira"
+    ]
+  },
+  {
+    "name": "Jorge Amado",
+    "work": "Literatura brasileira",
+    "house": "C",
+    "desc": "Transformou costumes e conflitos da Bahia em narrativas inventivas.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Literatura brasileira"
+    ]
+  },
+  {
+    "name": "Carolina Maria de Jesus",
+    "work": "Literatura brasileira",
+    "house": "G",
+    "desc": "Registrou sua vida e publicou o diário apesar das barreiras sociais.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Literatura brasileira"
+    ]
+  },
+  {
+    "name": "Neil Armstrong",
+    "work": "Exploração e pioneirismo",
+    "house": "G",
+    "desc": "Pilotou o módulo lunar rumo a um pouso inédito.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Exploração e pioneirismo"
+    ]
+  },
+  {
+    "name": "Yuri Gagarin",
+    "work": "Exploração e pioneirismo",
+    "house": "G",
+    "desc": "Assumiu o risco do primeiro voo humano em órbita.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Exploração e pioneirismo"
+    ]
+  },
+  {
+    "name": "Valentina Tereshkova",
+    "work": "Exploração e pioneirismo",
+    "house": "G",
+    "desc": "Tornou-se a primeira mulher a viajar ao espaço.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Exploração e pioneirismo"
+    ]
+  },
+  {
+    "name": "Jacques Cousteau",
+    "work": "Exploração e pioneirismo",
+    "house": "C",
+    "desc": "Desenvolveu equipamentos e métodos para explorar e filmar o oceano.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Exploração e pioneirismo"
+    ]
+  },
+  {
+    "name": "Thor",
+    "work": "Universo Marvel",
+    "house": "G",
+    "desc": "Defende Asgard e enfrenta ameaças ao lado dos Vingadores.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Bruce Banner",
+    "work": "Universo Marvel",
+    "house": "C",
+    "desc": "Pesquisa radiação e trabalha em soluções científicas.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Clint Barton",
+    "work": "Universo Marvel",
+    "house": "L",
+    "desc": "Volta às missões para proteger sua família e seus companheiros.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Wanda Maximoff",
+    "work": "Universo Marvel",
+    "house": "G",
+    "desc": "Enfrenta forças poderosas para defender as pessoas que ama.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Flash",
+    "work": "Universo DC",
+    "house": "G",
+    "desc": "Usa sua velocidade para salvar pessoas em situações de risco.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Aquaman",
+    "work": "Universo DC",
+    "house": "G",
+    "desc": "Enfrenta ameaças para proteger os oceanos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Arlequina",
+    "work": "Universo DC",
+    "house": "S",
+    "desc": "Improvisa planos para sobreviver e conquistar sua liberdade.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Lex Luthor",
+    "work": "Universo DC",
+    "house": "S",
+    "desc": "Usa sua fortuna e influência para perseguir poder.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Robin",
+    "work": "Universo DC",
+    "house": "L",
+    "desc": "Treina e luta ao lado de Batman para proteger Gotham.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Universo DC"
+    ]
+  },
+  {
+    "name": "Ron Weasley",
+    "work": "Harry Potter",
+    "house": "G",
+    "desc": "Enfrenta perigos ao lado de Harry e Hermione.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Neville Longbottom",
+    "work": "Harry Potter",
+    "house": "G",
+    "desc": "Enfrenta Voldemort e seus seguidores em Hogwarts.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Severus Snape",
+    "work": "Harry Potter",
+    "house": "S",
+    "desc": "Protege seus segredos enquanto atua entre lados opostos.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Alvo Dumbledore",
+    "work": "Harry Potter",
+    "house": "G",
+    "desc": "Enfrenta a ascensão das forças das trevas.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Minerva McGonagall",
+    "work": "Harry Potter",
+    "house": "G",
+    "desc": "Defende Hogwarts durante a batalha final.",
+    "why": "Esta é a casa do personagem em Hogwarts.",
+    "category": "Filmes",
+    "groups": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "name": "Luke Skywalker",
+    "work": "Star Wars",
+    "house": "G",
+    "desc": "Enfrenta o Império e busca salvar seu pai.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "work": "Star Wars",
+    "house": "G",
+    "desc": "Protege Luke e enfrenta Darth Vader.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "R2-D2",
+    "work": "Star Wars",
+    "house": "L",
+    "desc": "Acompanha seus amigos em missões pela galáxia.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "C-3PO",
+    "work": "Star Wars",
+    "house": "L",
+    "desc": "Ajuda seus companheiros com traduções em situações perigosas.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "Palpatine",
+    "work": "Star Wars",
+    "house": "S",
+    "desc": "Manipula acontecimentos para conquistar o controle da galáxia.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Star Wars"
+    ]
+  },
+  {
+    "name": "Frodo Bolseiro",
+    "work": "O Senhor dos Anéis e O Hobbit",
+    "house": "G",
+    "desc": "Leva o Um Anel em uma jornada perigosa até Mordor.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Legolas",
+    "work": "O Senhor dos Anéis e O Hobbit",
+    "house": "G",
+    "desc": "Luta ao lado da Sociedade contra as forças de Sauron.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Gimli",
+    "work": "O Senhor dos Anéis e O Hobbit",
+    "house": "L",
+    "desc": "Permanece com seus companheiros ao longo das batalhas.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Bilbo Bolseiro",
+    "work": "O Senhor dos Anéis e O Hobbit",
+    "house": "G",
+    "desc": "Deixa o Condado para acompanhar os anões em sua missão.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Gollum",
+    "work": "O Senhor dos Anéis e O Hobbit",
+    "house": "S",
+    "desc": "Usa artifícios para tentar recuperar o Um Anel.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "O Senhor dos Anéis e O Hobbit"
+    ]
+  },
+  {
+    "name": "Davy Jones",
+    "work": "Piratas do Caribe",
+    "house": "S",
+    "desc": "Comanda o Holandês Voador e cobra suas dívidas.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "Tia Dalma",
+    "work": "Piratas do Caribe",
+    "house": "C",
+    "desc": "Guarda conhecimentos sobre os mistérios do mar.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "James Norrington",
+    "work": "Piratas do Caribe",
+    "house": "G",
+    "desc": "Enfrenta piratas no comando da Marinha.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "Angelica Teach",
+    "work": "Piratas do Caribe",
+    "house": "S",
+    "desc": "Usa disfarces e alianças para alcançar seus objetivos.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "Cutler Beckett",
+    "work": "Piratas do Caribe",
+    "house": "S",
+    "desc": "Usa a Companhia das Índias para ampliar seu poder.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Piratas do Caribe"
+    ]
+  },
+  {
+    "name": "Primrose Everdeen",
+    "work": "Jogos Vorazes",
+    "house": "L",
+    "desc": "Dedica-se a cuidar dos feridos durante a guerra.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Effie Trinket",
+    "work": "Jogos Vorazes",
+    "house": "L",
+    "desc": "Ajuda os tributos e cria laços com eles.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Finnick Odair",
+    "work": "Jogos Vorazes",
+    "house": "G",
+    "desc": "Enfrenta os Jogos e participa da rebelião.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Gale Hawthorne",
+    "work": "Jogos Vorazes",
+    "house": "G",
+    "desc": "Arrisca-se para defender o Distrito 12.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Cinna",
+    "work": "Jogos Vorazes",
+    "house": "C",
+    "desc": "Cria figurinos que transformam a imagem de Katniss.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Jogos Vorazes"
+    ]
+  },
+  {
+    "name": "Roman Pearce",
+    "work": "Velozes e Furiosos",
+    "house": "G",
+    "desc": "Participa de missões perigosas com a equipe.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Mia Toretto",
+    "work": "Velozes e Furiosos",
+    "house": "L",
+    "desc": "Cuida da família e apoia seus irmãos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Han Lue",
+    "work": "Velozes e Furiosos",
+    "house": "L",
+    "desc": "Permanece leal à equipe durante as missões.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Luke Hobbs",
+    "work": "Velozes e Furiosos",
+    "house": "G",
+    "desc": "Enfrenta criminosos e perseguições de alto risco.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Gisele Yashar",
+    "work": "Velozes e Furiosos",
+    "house": "G",
+    "desc": "Arrisca-se para proteger seus companheiros.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Velozes e Furiosos"
+    ]
+  },
+  {
+    "name": "Ariel",
+    "work": "Clássicos da Disney",
+    "house": "C",
+    "desc": "Explora o mundo humano com curiosidade.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Aladdin",
+    "work": "Clássicos da Disney",
+    "house": "G",
+    "desc": "Enfrenta Jafar para proteger Agrabah.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Simba",
+    "work": "Clássicos da Disney",
+    "house": "G",
+    "desc": "Volta para enfrentar Scar e proteger seu reino.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Elsa",
+    "work": "Clássicos da Disney",
+    "house": "G",
+    "desc": "Aprende a enfrentar seus medos e proteger a irmã.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Anna",
+    "work": "Clássicos da Disney",
+    "house": "L",
+    "desc": "Parte em busca de Elsa e permanece ao seu lado.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Clássicos da Disney"
+    ]
+  },
+  {
+    "name": "Relâmpago McQueen",
+    "work": "Pixar",
+    "house": "G",
+    "desc": "Compete em corridas e enfrenta desafios nas pistas.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Mérida",
+    "work": "Pixar",
+    "house": "G",
+    "desc": "Desafia costumes para escolher seu próprio caminho.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Miguel Rivera",
+    "work": "Pixar",
+    "house": "G",
+    "desc": "Entra no mundo dos mortos para descobrir a história da família.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Remy",
+    "work": "Pixar",
+    "house": "C",
+    "desc": "Combina ingredientes e técnicas para criar pratos.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Wall-E",
+    "work": "Pixar",
+    "house": "L",
+    "desc": "Cuida de Eva e a acompanha em uma jornada espacial.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Pixar"
+    ]
+  },
+  {
+    "name": "Lord Farquaad",
+    "work": "Shrek",
+    "house": "S",
+    "desc": "Busca controlar o reino e conquistar uma posição maior.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Shrek"
+    ]
+  },
+  {
+    "name": "Pinóquio",
+    "work": "Shrek",
+    "house": "G",
+    "desc": "Ajuda os amigos mesmo diante dos guardas do reino.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Shrek"
+    ]
+  },
+  {
+    "name": "Príncipe Encantado",
+    "work": "Shrek",
+    "house": "S",
+    "desc": "Tenta conquistar o trono e a admiração do reino.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Shrek"
+    ]
+  },
+  {
+    "name": "Lobo Mau",
+    "work": "Shrek",
+    "house": "L",
+    "desc": "Participa dos planos para ajudar seus amigos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Shrek"
+    ]
+  },
+  {
+    "name": "Macaco",
+    "work": "Kung Fu Panda",
+    "house": "L",
+    "desc": "Treina e luta junto dos Cinco Furiosos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Louva-a-Deus",
+    "work": "Kung Fu Panda",
+    "house": "L",
+    "desc": "Usa suas habilidades para ajudar o grupo.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Garça",
+    "work": "Kung Fu Panda",
+    "house": "L",
+    "desc": "Acompanha a equipe na defesa do Vale da Paz.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Víbora",
+    "work": "Kung Fu Panda",
+    "house": "L",
+    "desc": "Apoia os amigos com suas habilidades de combate.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Lord Shen",
+    "work": "Kung Fu Panda",
+    "house": "S",
+    "desc": "Planeja conquistar a China com suas armas.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Filmes",
+    "groups": [
+      "Kung Fu Panda"
+    ]
+  },
+  {
+    "name": "Perna-de-Peixe",
+    "work": "Como Treinar o Seu Dragão",
+    "house": "C",
+    "desc": "Estuda e registra informações sobre os dragões.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Como Treinar o Seu Dragão"
+    ]
+  },
+  {
+    "name": "Valka",
+    "work": "Como Treinar o Seu Dragão",
+    "house": "L",
+    "desc": "Dedica anos a proteger dragões.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Como Treinar o Seu Dragão"
+    ]
+  },
+  {
+    "name": "Claire Dearing",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "G",
+    "desc": "Enfrenta dinossauros para resgatar seus sobrinhos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "Lex Murphy",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "C",
+    "desc": "Usa seus conhecimentos de informática para recuperar os sistemas.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "Tim Murphy",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "C",
+    "desc": "Conhece dinossauros e compartilha o que aprende com Grant.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "Henry Wu",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "C",
+    "desc": "Trabalha com genética na criação dos dinossauros.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "Maisie Lockwood",
+    "work": "Jurassic Park e Jurassic World",
+    "house": "G",
+    "desc": "Enfrenta perigos para proteger pessoas e dinossauros.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Jurassic Park e Jurassic World"
+    ]
+  },
+  {
+    "name": "Mike Ehrmantraut",
+    "work": "Breaking Bad e Better Call Saul",
+    "house": "S",
+    "desc": "Planeja operações e avalia riscos com cuidado.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Skyler White",
+    "work": "Breaking Bad e Better Call Saul",
+    "house": "S",
+    "desc": "Encontra meios de proteger a família e administrar os negócios.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Hank Schrader",
+    "work": "Breaking Bad e Better Call Saul",
+    "house": "G",
+    "desc": "Investiga o tráfico de drogas apesar dos perigos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Howard Hamlin",
+    "work": "Breaking Bad e Better Call Saul",
+    "house": "S",
+    "desc": "Trabalha para manter o prestígio e a posição de seu escritório.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Chuck McGill",
+    "work": "Breaking Bad e Better Call Saul",
+    "house": "C",
+    "desc": "Dedica a carreira ao estudo e à prática do direito.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Breaking Bad e Better Call Saul"
+    ]
+  },
+  {
+    "name": "Arya Stark",
+    "work": "Game of Thrones e House of the Dragon",
+    "house": "G",
+    "desc": "Enfrenta perigos enquanto busca sua própria sobrevivência.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Sansa Stark",
+    "work": "Game of Thrones e House of the Dragon",
+    "house": "S",
+    "desc": "Aprende a lidar com alianças e disputas pelo poder.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Jaime Lannister",
+    "work": "Game of Thrones e House of the Dragon",
+    "house": "G",
+    "desc": "Entra em batalhas e assume riscos para proteger seus aliados.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Alicent Hightower",
+    "work": "Game of Thrones e House of the Dragon",
+    "house": "S",
+    "desc": "Forma alianças para defender a posição de sua família.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Davos Seaworth",
+    "work": "Game of Thrones e House of the Dragon",
+    "house": "L",
+    "desc": "Permanece ao lado dos líderes em quem acredita.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Game of Thrones e House of the Dragon"
+    ]
+  },
+  {
+    "name": "Max Mayfield",
+    "work": "Stranger Things",
+    "house": "G",
+    "desc": "Enfrenta o perigo para ajudar seus amigos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Lucas Sinclair",
+    "work": "Stranger Things",
+    "house": "L",
+    "desc": "Protege e apoia o grupo em Hawkins.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Mike Wheeler",
+    "work": "Stranger Things",
+    "house": "L",
+    "desc": "Permanece ao lado de Eleven e dos amigos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Jim Hopper",
+    "work": "Stranger Things",
+    "house": "G",
+    "desc": "Investiga ameaças para proteger Hawkins.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Will Byers",
+    "work": "Stranger Things",
+    "house": "L",
+    "desc": "Mantém laços com os amigos apesar das experiências no Mundo Invertido.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Stranger Things"
+    ]
+  },
+  {
+    "name": "Chandler Bing",
+    "work": "Friends",
+    "house": "L",
+    "desc": "Apoia os amigos e constrói uma família com Monica.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Gunther",
+    "work": "Friends",
+    "house": "L",
+    "desc": "Trabalha no Central Perk e acompanha o grupo por anos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Janice Hosenstein",
+    "work": "Friends",
+    "house": "G",
+    "desc": "Fala o que pensa e enfrenta encontros inesperados.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Carol Willick",
+    "work": "Friends",
+    "house": "L",
+    "desc": "Cuida do filho e mantém laços com a família.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Mike Hannigan",
+    "work": "Friends",
+    "house": "L",
+    "desc": "Apoia Phoebe e constrói uma vida ao lado dela.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Friends"
+    ]
+  },
+  {
+    "name": "Andy Bernard",
+    "work": "The Office",
+    "house": "S",
+    "desc": "Busca reconhecimento e uma posição de liderança no escritório.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Kevin Malone",
+    "work": "The Office",
+    "house": "L",
+    "desc": "Permanece junto à equipe da Dunder Mifflin.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Stanley Hudson",
+    "work": "The Office",
+    "house": "L",
+    "desc": "Cumpre suas responsabilidades no escritório.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Oscar Martinez",
+    "work": "The Office",
+    "house": "C",
+    "desc": "Usa suas habilidades de contabilidade para analisar as finanças.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Erin Hannon",
+    "work": "The Office",
+    "house": "L",
+    "desc": "Ajuda seus colegas como recepcionista.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Office"
+    ]
+  },
+  {
+    "name": "Rosa Diaz",
+    "work": "Brooklyn Nine-Nine",
+    "house": "G",
+    "desc": "Enfrenta criminosos e situações perigosas.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Charles Boyle",
+    "work": "Brooklyn Nine-Nine",
+    "house": "L",
+    "desc": "Apoia Jake e os colegas da delegacia.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Scully",
+    "work": "Brooklyn Nine-Nine",
+    "house": "L",
+    "desc": "Trabalha ao lado de Hitchcock por muitos anos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Hitchcock",
+    "work": "Brooklyn Nine-Nine",
+    "house": "L",
+    "desc": "Mantém sua parceria de longa data com Scully.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Doug Judy",
+    "work": "Brooklyn Nine-Nine",
+    "house": "S",
+    "desc": "Usa truques e planos criativos para escapar da polícia.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Brooklyn Nine-Nine"
+    ]
+  },
+  {
+    "name": "Howard Wolowitz",
+    "work": "The Big Bang Theory e Young Sheldon",
+    "house": "C",
+    "desc": "Projeta equipamentos como engenheiro aeroespacial.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "The Big Bang Theory e Young Sheldon"
+    ]
+  },
+  {
+    "name": "Raj Koothrappali",
+    "work": "The Big Bang Theory e Young Sheldon",
+    "house": "C",
+    "desc": "Estuda astronomia e objetos do espaço.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "The Big Bang Theory e Young Sheldon"
+    ]
+  },
+  {
+    "name": "Bernadette Rostenkowski",
+    "work": "The Big Bang Theory e Young Sheldon",
+    "house": "S",
+    "desc": "Busca crescimento em sua carreira científica.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "The Big Bang Theory e Young Sheldon"
+    ]
+  },
+  {
+    "name": "Georgie Cooper",
+    "work": "The Big Bang Theory e Young Sheldon",
+    "house": "S",
+    "desc": "Procura oportunidades para construir seus negócios.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "The Big Bang Theory e Young Sheldon"
+    ]
+  },
+  {
+    "name": "Denver",
+    "work": "La Casa de Papel",
+    "house": "G",
+    "desc": "Enfrenta situações de risco durante os assaltos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "La Casa de Papel"
+    ]
+  },
+  {
+    "name": "Helsinque",
+    "work": "La Casa de Papel",
+    "house": "L",
+    "desc": "Protege seus companheiros durante as operações.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "La Casa de Papel"
+    ]
+  },
+  {
+    "name": "Palermo",
+    "work": "La Casa de Papel",
+    "house": "S",
+    "desc": "Busca liderar a execução de seus planos.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "La Casa de Papel"
+    ]
+  },
+  {
+    "name": "Lisboa",
+    "work": "La Casa de Papel",
+    "house": "S",
+    "desc": "Usa sua experiência policial para planejar com o grupo.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "La Casa de Papel"
+    ]
+  },
+  {
+    "name": "Glenn Rhee",
+    "work": "The Walking Dead",
+    "house": "G",
+    "desc": "Arrisca a vida em buscas por suprimentos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Maggie Greene",
+    "work": "The Walking Dead",
+    "house": "G",
+    "desc": "Lidera sobreviventes diante de ameaças.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Carl Grimes",
+    "work": "The Walking Dead",
+    "house": "G",
+    "desc": "Enfrenta perigos para proteger sua família.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Eugene Porter",
+    "work": "The Walking Dead",
+    "house": "C",
+    "desc": "Aplica seus conhecimentos para resolver problemas técnicos.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Morgan Jones",
+    "work": "The Walking Dead",
+    "house": "L",
+    "desc": "Busca proteger pessoas enquanto atravessa o mundo devastado.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Walking Dead"
+    ]
+  },
+  {
+    "name": "Kimiko Miyashiro",
+    "work": "The Boys",
+    "house": "L",
+    "desc": "Protege seus companheiros em situações perigosas.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Boys"
+    ]
+  },
+  {
+    "name": "Trem-Bala",
+    "work": "The Boys",
+    "house": "S",
+    "desc": "Busca manter sua posição entre os heróis da Vought.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "The Boys"
+    ]
+  },
+  {
+    "name": "Rainha Maeve",
+    "work": "The Boys",
+    "house": "G",
+    "desc": "Enfrenta a Vought e seus antigos aliados.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "The Boys"
+    ]
+  },
+  {
+    "name": "Black Noir",
+    "work": "The Boys",
+    "house": "L",
+    "desc": "Cumpre missões ao lado dos Sete.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "The Boys"
+    ]
+  },
+  {
+    "name": "Robby Keene",
+    "work": "Cobra Kai",
+    "house": "G",
+    "desc": "Entra em competições e enfrenta seus conflitos familiares.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "Eli Moskowitz",
+    "work": "Cobra Kai",
+    "house": "G",
+    "desc": "Enfrenta adversários nos torneios de karatê.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "John Kreese",
+    "work": "Cobra Kai",
+    "house": "S",
+    "desc": "Usa influência e estratégia para controlar seu dojô.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "Chozen Toguchi",
+    "work": "Cobra Kai",
+    "house": "L",
+    "desc": "Ajuda Daniel a proteger seu dojô.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "Tory Nichols",
+    "work": "Cobra Kai",
+    "house": "G",
+    "desc": "Enfrenta desafios dentro e fora do tatame.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Cobra Kai"
+    ]
+  },
+  {
+    "name": "Ned Flanders",
+    "work": "Os Simpsons",
+    "house": "L",
+    "desc": "Ajuda os vizinhos e cuida de sua família.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Os Simpsons"
+    ]
+  },
+  {
+    "name": "Maggie Simpson",
+    "work": "Os Simpsons",
+    "house": "L",
+    "desc": "Permanece perto da família em Springfield.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Os Simpsons"
+    ]
+  },
+  {
+    "name": "Krusty",
+    "work": "Os Simpsons",
+    "house": "S",
+    "desc": "Busca manter a fama e seu programa de televisão.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Séries",
+    "groups": [
+      "Os Simpsons"
+    ]
+  },
+  {
+    "name": "Milhouse Van Houten",
+    "work": "Os Simpsons",
+    "house": "L",
+    "desc": "Acompanha Bart em suas aventuras.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Os Simpsons"
+    ]
+  },
+  {
+    "name": "Iroh",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "C",
+    "desc": "Ensina Zuko a refletir sobre suas escolhas.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Suki",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "G",
+    "desc": "Lidera as guerreiras Kyoshi em combate.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Appa",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "L",
+    "desc": "Transporta Aang e permanece ao lado do grupo.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Princesa Yue",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "G",
+    "desc": "Faz uma escolha difícil para proteger seu povo.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Sakura Haruno",
+    "work": "Naruto",
+    "house": "L",
+    "desc": "Usa suas habilidades médicas para cuidar dos companheiros.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Kakashi Hatake",
+    "work": "Naruto",
+    "house": "C",
+    "desc": "Estuda técnicas e cria estratégias para sua equipe.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Gaara",
+    "work": "Naruto",
+    "house": "G",
+    "desc": "Enfrenta ameaças para proteger sua vila.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Itachi Uchiha",
+    "work": "Naruto",
+    "house": "S",
+    "desc": "Mantém seus planos em segredo e age estrategicamente.",
+    "why": "A escolha destaca a estratégia para alcançar um objetivo.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Jiraiya",
+    "work": "Naruto",
+    "house": "G",
+    "desc": "Enfrenta perigos enquanto treina e protege Naruto.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Naruto"
+    ]
+  },
+  {
+    "name": "Gohan",
+    "work": "Dragon Ball",
+    "house": "G",
+    "desc": "Enfrenta inimigos para proteger sua família.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Peter Parker",
+    "work": "Universo Marvel",
+    "house": "L",
+    "desc": "Ajuda seus vizinhos enquanto equilibra escola e heroísmo.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Azula",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "S",
+    "desc": "Planeja estratégias para conquistar poder.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Piccolo",
+    "work": "Dragon Ball",
+    "house": "L",
+    "desc": "Treina Gohan e permanece ao lado de seus aliados.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Mestre Kame",
+    "work": "Dragon Ball",
+    "house": "C",
+    "desc": "Ensina técnicas de artes marciais a seus alunos.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Trunks",
+    "work": "Dragon Ball",
+    "house": "G",
+    "desc": "Viaja no tempo para enfrentar uma ameaça ao futuro.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Majin Boo",
+    "work": "Dragon Ball",
+    "house": "L",
+    "desc": "Cria laços de amizade com seus novos companheiros.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Professor Carvalho",
+    "work": "Pokémon",
+    "house": "C",
+    "desc": "Pesquisa Pokémon e orienta novos treinadores.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "James",
+    "work": "Pokémon",
+    "house": "L",
+    "desc": "Acompanha Jessie e Meowth nas aventuras.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Meowth",
+    "work": "Pokémon",
+    "house": "S",
+    "desc": "Cria planos para a Equipe Rocket.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Gary Carvalho",
+    "work": "Pokémon",
+    "house": "S",
+    "desc": "Busca reconhecimento como treinador Pokémon.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Lance",
+    "work": "Pokémon",
+    "house": "G",
+    "desc": "Enfrenta ameaças como membro da Liga Pokémon.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Romário",
+    "work": "Futebol brasileiro",
+    "house": "G",
+    "desc": "Atacou as defesas adversárias em grandes competições.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Rivaldo",
+    "work": "Futebol brasileiro",
+    "house": "C",
+    "desc": "Criou jogadas e finalizações marcantes pela seleção.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Kaká",
+    "work": "Futebol brasileiro",
+    "house": "G",
+    "desc": "Avançou com velocidade para enfrentar adversários.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro",
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Formiga",
+    "work": "Futebol brasileiro",
+    "house": "L",
+    "desc": "Dedicou décadas à seleção brasileira de futebol.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Neymar",
+    "work": "Futebol brasileiro",
+    "house": "C",
+    "desc": "Criou jogadas e dribles em clubes e na seleção.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro",
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Diego Maradona",
+    "work": "Futebol internacional",
+    "house": "C",
+    "desc": "Criou jogadas marcantes pela Argentina.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Zinedine Zidane",
+    "work": "Futebol internacional",
+    "house": "C",
+    "desc": "Usou técnica e visão de jogo no meio-campo.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Erling Haaland",
+    "work": "Futebol internacional",
+    "house": "S",
+    "desc": "Busca marcas e títulos como atacante.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Caetano Veloso",
+    "work": "Música brasileira",
+    "house": "C",
+    "desc": "Experimentou diferentes estilos na música brasileira.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Ivete Sangalo",
+    "work": "Música brasileira",
+    "house": "L",
+    "desc": "Construiu uma carreira em contato constante com seu público.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Chico Buarque",
+    "work": "Música brasileira",
+    "house": "C",
+    "desc": "Criou canções e personagens em suas composições.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Milton Nascimento",
+    "work": "Música brasileira",
+    "house": "C",
+    "desc": "Misturou influências em suas composições.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Rihanna",
+    "work": "Pop internacional",
+    "house": "S",
+    "desc": "Construiu projetos de música e negócios.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Michael Jackson",
+    "work": "Pop internacional",
+    "house": "C",
+    "desc": "Criou performances e vídeos musicais marcantes.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Bruno Mars",
+    "work": "Pop internacional",
+    "house": "C",
+    "desc": "Misturou estilos musicais em suas apresentações.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Ariana Grande",
+    "work": "Pop internacional",
+    "house": "L",
+    "desc": "Manteve dedicação à música e às apresentações.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Shakira",
+    "work": "Pop internacional",
+    "house": "C",
+    "desc": "Misturou ritmos e estilos ao longo de sua carreira.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Sócrates",
+    "work": "Futebol brasileiro",
+    "house": "C",
+    "desc": "Organizou o jogo no meio-campo e participou da Democracia Corinthiana.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Vinícius Júnior",
+    "work": "Futebol brasileiro",
+    "house": "G",
+    "desc": "Enfrenta marcadores no um contra um e se posiciona contra o racismo.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Garrincha",
+    "work": "Futebol brasileiro",
+    "house": "C",
+    "desc": "Criava dribles imprevisíveis pela ponta direita.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Cafu",
+    "work": "Futebol brasileiro",
+    "house": "L",
+    "desc": "Percorreu o campo pela lateral e liderou a seleção brasileira.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Didi",
+    "work": "Futebol brasileiro",
+    "house": "C",
+    "desc": "Criou a cobrança de falta conhecida como folha seca.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Cristiane",
+    "work": "Futebol brasileiro",
+    "house": "G",
+    "desc": "Enfrentou defesas adversárias e marcou gols pela seleção.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol brasileiro"
+    ]
+  },
+  {
+    "name": "Johan Cruyff",
+    "work": "Futebol internacional",
+    "house": "C",
+    "desc": "Ajudou a transformar a forma de jogar e pensar o futebol.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Thierry Henry",
+    "work": "Futebol internacional",
+    "house": "C",
+    "desc": "Usava movimentação, técnica e visão de jogo para criar chances.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Gianluigi Buffon",
+    "work": "Futebol internacional",
+    "house": "L",
+    "desc": "Defendeu o gol de suas equipes durante uma longa carreira.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "David Beckham",
+    "work": "Futebol internacional",
+    "house": "L",
+    "desc": "Construiu sua especialidade em cruzamentos e faltas com dedicação.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Mohamed Salah",
+    "work": "Futebol internacional",
+    "house": "G",
+    "desc": "Avança sobre as defesas e decide partidas no ataque.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Lamine Yamal",
+    "work": "Futebol internacional",
+    "house": "G",
+    "desc": "Parte para o drible diante de defensores experientes.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Futebol internacional"
+    ]
+  },
+  {
+    "name": "Tim Maia",
+    "work": "Música brasileira",
+    "house": "C",
+    "desc": "Combinou soul, funk e música brasileira com uma voz marcante.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Cássia Eller",
+    "work": "Música brasileira",
+    "house": "G",
+    "desc": "Interpretou canções de vários estilos com presença intensa no palco.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Alcione",
+    "work": "Música brasileira",
+    "house": "L",
+    "desc": "Construiu uma longa carreira dedicada ao samba.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Gal Costa",
+    "work": "Música brasileira",
+    "house": "C",
+    "desc": "Experimentou sonoridades diferentes ao longo de sua carreira.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Seu Jorge",
+    "work": "Música brasileira",
+    "house": "C",
+    "desc": "Misturou samba, soul e outros estilos em suas interpretações.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Música brasileira"
+    ]
+  },
+  {
+    "name": "Britney Spears",
+    "work": "Pop internacional",
+    "house": "L",
+    "desc": "Treinou canto e dança para apresentações de grande produção.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Dua Lipa",
+    "work": "Pop internacional",
+    "house": "C",
+    "desc": "Misturou pop contemporâneo e referências da disco music.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Billie Eilish",
+    "work": "Pop internacional",
+    "house": "C",
+    "desc": "Experimenta texturas e arranjos em gravações com seu irmão.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "The Weeknd",
+    "work": "Pop internacional",
+    "house": "C",
+    "desc": "Cria personagens e narrativas para seus álbuns e clipes.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Justin Bieber",
+    "work": "Pop internacional",
+    "house": "L",
+    "desc": "Desenvolveu sua carreira cantando e tocando desde jovem.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Famosos reais",
+    "groups": [
+      "Pop internacional"
+    ]
+  },
+  {
+    "name": "Charizard",
+    "work": "Pokémon",
+    "house": "G",
+    "desc": "Enfrenta adversários poderosos com ataques de fogo e voos velozes.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Bulbasaur",
+    "work": "Pokémon",
+    "house": "L",
+    "desc": "Protege seus companheiros e ajuda a cuidar de outros Pokémon.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Squirtle",
+    "work": "Pokémon",
+    "house": "G",
+    "desc": "Lidera seu grupo e enfrenta perigos com seus jatos de água.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Eevee",
+    "work": "Pokémon",
+    "house": "C",
+    "desc": "Pode evoluir de várias formas conforme o ambiente e as condições.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Mewtwo",
+    "work": "Pokémon",
+    "house": "C",
+    "desc": "Questiona a própria origem e o seu lugar no mundo.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Mew",
+    "work": "Pokémon",
+    "house": "C",
+    "desc": "Explora o mundo com curiosidade e habilidades incomuns.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Snorlax",
+    "work": "Pokémon",
+    "house": "L",
+    "desc": "É um companheiro confiável quando precisa entrar em batalha.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Jigglypuff",
+    "work": "Pokémon",
+    "house": "S",
+    "desc": "Busca a atenção da plateia sempre que começa a cantar.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Psyduck",
+    "work": "Pokémon",
+    "house": "G",
+    "desc": "Acompanha Misty em aventuras apesar da confusão que costuma sentir.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Lucario",
+    "work": "Pokémon",
+    "house": "L",
+    "desc": "Usa sua percepção da aura para proteger seus aliados.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Togepi",
+    "work": "Pokémon",
+    "house": "L",
+    "desc": "Cria um laço de confiança com Misty durante a viagem.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Gengar",
+    "work": "Pokémon",
+    "house": "S",
+    "desc": "Usa sombras e truques para surpreender adversários.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Pokémon"
+    ]
+  },
+  {
+    "name": "Cell",
+    "work": "Dragon Ball",
+    "house": "S",
+    "desc": "Procura absorver poder para alcançar sua forma perfeita.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Androide 18",
+    "work": "Dragon Ball",
+    "house": "G",
+    "desc": "Enfrenta lutadores experientes com confiança.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Androide 17",
+    "work": "Dragon Ball",
+    "house": "L",
+    "desc": "Protege a reserva natural e seus animais.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Tenshinhan",
+    "work": "Dragon Ball",
+    "house": "L",
+    "desc": "Treina com disciplina e permanece ao lado de seus companheiros.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Yamcha",
+    "work": "Dragon Ball",
+    "house": "G",
+    "desc": "Aceita participar de torneios e combates perigosos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Videl",
+    "work": "Dragon Ball",
+    "house": "G",
+    "desc": "Combate criminosos e decide aprender novas técnicas com Gohan.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Pan",
+    "work": "Dragon Ball",
+    "house": "G",
+    "desc": "Parte para aventuras e encara ameaças ao lado da família.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Beerus",
+    "work": "Dragon Ball",
+    "house": "S",
+    "desc": "Usa sua posição de Deus da Destruição para impor sua vontade.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Whis",
+    "work": "Dragon Ball",
+    "house": "C",
+    "desc": "Analisa técnicas de luta e orienta Goku e Vegeta.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Broly",
+    "work": "Dragon Ball",
+    "house": "G",
+    "desc": "Entra em batalhas intensas com uma força que surpreende seus adversários.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Dragon Ball"
+    ]
+  },
+  {
+    "name": "Momo",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "L",
+    "desc": "Acompanha Aang e o grupo em suas viagens.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Bumi",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "C",
+    "desc": "Resolve problemas com ideias inesperadas e domina a dobra de terra.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Ozai",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "S",
+    "desc": "Busca consolidar o poder da Nação do Fogo e conquistar outros territórios.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Mai",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "G",
+    "desc": "Desafia as ordens de Azula em um momento decisivo.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Ty Lee",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "L",
+    "desc": "Ajuda suas amigas e toma decisões para protegê-las.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Jet",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "S",
+    "desc": "Usa estratégia para liderar seus aliados contra a Nação do Fogo.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Zhao",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "S",
+    "desc": "Busca prestígio na Nação do Fogo com planos cada vez mais ambiciosos.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Hakoda",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "L",
+    "desc": "Lidera guerreiros da Tribo da Água e apoia os filhos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Pakku",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "C",
+    "desc": "Ensina técnicas de dobra de água a seus alunos.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Kyoshi",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "G",
+    "desc": "Enfrenta ameaças para defender seu povo como Avatar.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Roku",
+    "work": "Avatar: A Lenda de Aang",
+    "house": "G",
+    "desc": "Usa a dobra para proteger pessoas e confrontar Sozin.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Séries",
+    "groups": [
+      "Avatar: A Lenda de Aang"
+    ]
+  },
+  {
+    "name": "Pantera Negra",
+    "work": "Universo Marvel",
+    "house": "G",
+    "desc": "Defende Wakanda e assume os riscos de liderar o reino.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Doutor Estranho",
+    "work": "Universo Marvel",
+    "house": "C",
+    "desc": "Estuda artes místicas e aprende a manipular o tempo.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Capitã Marvel",
+    "work": "Universo Marvel",
+    "house": "G",
+    "desc": "Enfrenta ameaças no espaço para defender outras pessoas.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Thanos",
+    "work": "Universo Marvel",
+    "house": "S",
+    "desc": "Reúne as Joias do Infinito para executar seu plano.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Star-Lord",
+    "work": "Universo Marvel",
+    "house": "G",
+    "desc": "Coloca-se em risco ao lado dos Guardiões da Galáxia.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Gamora",
+    "work": "Universo Marvel",
+    "house": "G",
+    "desc": "Enfrenta Thanos e decide seguir seu próprio caminho.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Rocket",
+    "work": "Universo Marvel",
+    "house": "C",
+    "desc": "Monta armas e equipamentos a partir de peças improvisadas.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Homem-Formiga",
+    "work": "Universo Marvel",
+    "house": "G",
+    "desc": "Aceita missões perigosas usando a tecnologia de encolhimento.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Vespa",
+    "work": "Universo Marvel",
+    "house": "C",
+    "desc": "Domina a tecnologia do traje e ajuda a planejar as missões.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Visão",
+    "work": "Universo Marvel",
+    "house": "C",
+    "desc": "Analisa o mundo e reflete sobre suas escolhas como Vingador.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Falcão",
+    "work": "Universo Marvel",
+    "house": "L",
+    "desc": "Apoia Steve Rogers e protege seus companheiros.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Soldado Invernal",
+    "work": "Universo Marvel",
+    "house": "L",
+    "desc": "Luta para recuperar a própria vida e permanece ao lado de seus amigos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Filmes",
+    "groups": [
+      "Universo Marvel"
+    ]
+  },
+  {
+    "name": "Sanji",
+    "work": "One Piece",
+    "house": "L",
+    "desc": "Cozinha para a tripulação e protege seus companheiros.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Usopp",
+    "work": "One Piece",
+    "house": "G",
+    "desc": "Enfrenta inimigos apesar do medo.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Jinbe",
+    "work": "One Piece",
+    "house": "L",
+    "desc": "Apoia Luffy e a tripulação nas batalhas.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Franky",
+    "work": "One Piece",
+    "house": "C",
+    "desc": "Constrói e mantém o navio da tripulação.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Brook",
+    "work": "One Piece",
+    "house": "L",
+    "desc": "Continua fiel às promessas feitas a seus amigos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "One Piece"
+    ]
+  },
+  {
+    "name": "Ryuk",
+    "work": "Death Note",
+    "house": "C",
+    "desc": "Observa os acontecimentos movido pela curiosidade.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "Mello",
+    "work": "Death Note",
+    "house": "S",
+    "desc": "Usa estratégias para superar seus rivais na investigação.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "Teru Mikami",
+    "work": "Death Note",
+    "house": "L",
+    "desc": "Segue fielmente os ideais de Kira.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "Touta Matsuda",
+    "work": "Death Note",
+    "house": "G",
+    "desc": "Participa da investigação apesar dos riscos.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "Rem",
+    "work": "Death Note",
+    "house": "L",
+    "desc": "Protege Misa e toma decisões para mantê-la segura.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Death Note"
+    ]
+  },
+  {
+    "name": "Hange Zoë",
+    "work": "Attack on Titan",
+    "house": "C",
+    "desc": "Estuda os titãs para compreender sua natureza.",
+    "why": "A escolha destaca a curiosidade, a análise ou a criatividade.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Jean Kirstein",
+    "work": "Attack on Titan",
+    "house": "G",
+    "desc": "Enfrenta batalhas para proteger seus companheiros.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Sasha Blouse",
+    "work": "Attack on Titan",
+    "house": "L",
+    "desc": "Cuida dos amigos e ajuda pessoas em perigo.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Reiner Braun",
+    "work": "Attack on Titan",
+    "house": "L",
+    "desc": "Carrega suas responsabilidades e protege seus companheiros.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Annie Leonhart",
+    "work": "Attack on Titan",
+    "house": "S",
+    "desc": "Usa estratégia para cumprir sua missão.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Attack on Titan"
+    ]
+  },
+  {
+    "name": "Zenitsu Agatsuma",
+    "work": "Demon Slayer",
+    "house": "G",
+    "desc": "Enfrenta demônios mesmo quando está com medo.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Giyu Tomioka",
+    "work": "Demon Slayer",
+    "house": "G",
+    "desc": "Luta contra demônios para proteger pessoas.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Muzan Kibutsuji",
+    "work": "Demon Slayer",
+    "house": "S",
+    "desc": "Busca preservar e ampliar seu poder.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Tengen Uzui",
+    "work": "Demon Slayer",
+    "house": "G",
+    "desc": "Enfrenta perigos para proteger os outros.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Mitsuri Kanroji",
+    "work": "Demon Slayer",
+    "house": "L",
+    "desc": "Luta para proteger as pessoas com quem se importa.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Demon Slayer"
+    ]
+  },
+  {
+    "name": "Sukuna",
+    "work": "Jujutsu Kaisen",
+    "house": "S",
+    "desc": "Busca ampliar seu poder e alcançar seus próprios objetivos.",
+    "why": "A escolha destaca a estratégia para alcançar seus objetivos.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  },
+  {
+    "name": "Maki Zenin",
+    "work": "Jujutsu Kaisen",
+    "house": "G",
+    "desc": "Enfrenta adversários fortes para seguir seu caminho.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  },
+  {
+    "name": "Yuta Okkotsu",
+    "work": "Jujutsu Kaisen",
+    "house": "L",
+    "desc": "Luta para proteger seus amigos.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  },
+  {
+    "name": "Panda",
+    "work": "Jujutsu Kaisen",
+    "house": "L",
+    "desc": "Ajuda seus colegas da escola de feiticeiros.",
+    "why": "A escolha destaca a lealdade e a dedicação.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  },
+  {
+    "name": "Aoi Todo",
+    "work": "Jujutsu Kaisen",
+    "house": "G",
+    "desc": "Entra em combate com confiança e determinação.",
+    "why": "A escolha destaca a coragem diante do risco.",
+    "category": "Animes",
+    "groups": [
+      "Jujutsu Kaisen"
+    ]
+  }
+]

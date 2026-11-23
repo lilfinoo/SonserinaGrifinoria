@@ -1,0 +1,5 @@
+*.sqlite*
+__pycache__/
+.neon
+node_modules/
+.env*
