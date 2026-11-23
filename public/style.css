@@ -215,7 +215,6 @@ footer b { color: var(--gold); } footer span { margin-left: auto; color: var(--m
   overflow-wrap: anywhere;
 }
 .houses button:not(:disabled):hover { color: var(--house); border-color: var(--house); background: var(--ink); box-shadow: 0 0 19px color-mix(in srgb,var(--house) 24%,transparent); transform: translateY(-3px); }
-.houses small { display: block; color: var(--muted); font-size: 11px; margin-top: 2px; }
 .verdict { position: relative; overflow: hidden; padding: 19px 21px; border: 1px solid var(--house); border-radius: 9px; background: linear-gradient(108deg,var(--ink),#161e31 82%); }
 .verdict > :not(.sparks) { position: relative; }
 .verdict h3 { width: fit-content; color: var(--house); font-size: clamp(24px,5vw,34px); margin: 5px 0 7px; text-shadow: 0 0 23px color-mix(in srgb,var(--house) 46%,transparent); }

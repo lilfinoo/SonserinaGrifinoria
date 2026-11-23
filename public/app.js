@@ -11,7 +11,6 @@ async function api(route,data={}){
 function message(e){const el=modal.open?$('#form .err'):null;if(el)el.textContent=e.message;else{$('#toast').textContent=e.message;setTimeout(()=>$('#toast').textContent='',3500)}}
 function show(html){form.innerHTML=html+'<p role="alert" class="err"></p>';form.querySelector('h2').id='dialog-title';if(!modal.open)modal.showModal()}
 function stop(){clearInterval(poll);room=null;local=null;stamp='';page++}
-const houseTraits={G:'Coragem',S:'Ambição',C:'Curiosidade',L:'Lealdade'};
 function sparks(count){
  return '<div class="sparks" aria-hidden="true">'+Array.from({length:count},(_,i)=>
   `<i style="--x:${(i*61+7)%100}%;--y:${(i*37+13)%100}%;--delay:${-(i%9)*.61}s">✦</i>`
@@ -106,7 +105,7 @@ function render(s){
  if(s.phase==='lobby'){html+='<h1>Sala de jogo</h1><p>Compartilhe o código <b>'+esc(s.code)+'</b> com seus amigos.</p>'+names(s.players.map(p=>[p,'Pronto']))+(isHost?'<button class="primary" data-act="start" '+(s.players.length<2?'disabled':'')+'>Começar partida</button>':'<p>Aguardando o anfitrião.</p>')}
  else if(s.phase==='done'){html+='<h1>Placar final</h1>'+names(Object.entries(s.scores).sort((a,b)=>b[1]-a[1]).map(([p,v])=>[p,v+' / '+s.total]))+'<button data-act="home">Voltar ao salão</button>'}
  else{const card=s.card;html+=`<p class="chapter"><span>Personagem ${s.index+1} de ${s.total}</span><span>${esc(card.category)}</span></p><div class="progress" aria-hidden="true"><i style="transform:scaleX(${(s.index+1)/s.total})"></i></div><div class="character"><div><h1>${esc(card.name)}</h1><b>${esc(card.work)}</b><p>${esc(card.desc)}</p></div>${characterPortrait(card)}</div>`;
- if(s.phase==='vote'){html+=s.voted.includes(me)?'<p class="waiting" role="status">✦ Voto registrado. Aguardando os demais ('+s.voted.length+'/'+s.players.length+').</p>':'<h3>Qual casa combina mais?</h3><div class="houses">'+Object.entries(houses).map(([k,v])=>'<button data-house="'+k+'"><span>'+v+'</span><small>'+houseTraits[k]+'</small></button>').join('')+'</div>'}
+ if(s.phase==='vote'){html+=s.voted.includes(me)?'<p class="waiting" role="status">✦ Voto registrado. Aguardando os demais ('+s.voted.length+'/'+s.players.length+').</p>':'<h3>Qual casa combina mais?</h3><div class="houses">'+Object.entries(houses).map(([k,v])=>'<button data-house="'+k+'"><span>'+v+'</span></button>').join('')+'</div>'}
  else{html+='<section class="verdict" data-tone="'+s.house+'">'+sparks(11)+'<div class="eyebrow">Casa sugerida</div><h3 tabindex="-1">'+houses[s.house]+'</h3><p>'+esc(s.why)+'</p></section>'+names(Object.entries(s.votes).map(([p,v])=>[p,houses[v]+(v===s.house?' · +1':' · 0')]))+(isHost?'<button class="primary" data-act="next">'+(s.index+1===s.total?'Ver placar':'Próximo personagem')+' →</button>':'<p>Aguardando o anfitrião continuar.</p>')}}
  const motionKey=[s.code,s.day,s.phase,s.index,s.card?.name].join('|');
  const changed=app.dataset.motionKey!==motionKey;
