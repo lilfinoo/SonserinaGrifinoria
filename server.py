@@ -107,6 +107,12 @@ class Handler(SimpleHTTPRequestHandler):
             day=today()
             start={'dia':day,'semana':day-dt.timedelta(days=day.weekday()),'geral':dt.date.min}[a['period']]
             return [dict(r) for r in c.execute('select user,sum(points) points from results where day between ? and ? group by user order by points desc,user collate nocase',(start.isoformat(),day.isoformat()))]
+        if path=='/api/dashboard':
+            require(user and user.lower()=='mateus','Este painel é exclusivo do usuário mateus.')
+            return {'users':c.execute('select count(*) from users').fetchone()[0],
+                    'results':c.execute('select count(*) from results').fetchone()[0],
+                    'rooms':c.execute("select count(*) from rooms where json_extract(data,'$.phase')!='done'").fetchone()[0],
+                    'characters':len(CARDS)}
         require(user,'Entre na sua conta para jogar online.')
         if path=='/api/create':
             daily=a['mode']=='daily'

@@ -92,6 +92,17 @@ async function action(client, route, args, user, token, setCookie) {
     return ranked.rows;
   }
 
+  if (route === 'dashboard') {
+    requireValue(user && user.toLowerCase() === 'mateus', 'Este painel é exclusivo do usuário mateus.');
+    const stats = await client.query(`
+      SELECT
+        (SELECT COUNT(*)::int FROM users) AS users,
+        (SELECT COUNT(*)::int FROM results) AS results,
+        (SELECT COUNT(*)::int FROM rooms WHERE data->>'phase' <> 'done') AS rooms
+    `);
+    return { ...stats.rows[0], characters: cards.length };
+  }
+
   requireValue(user, 'Entre na sua conta para jogar online.');
   if (route === 'create') {
     const daily = args.mode === 'daily';

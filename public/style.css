@@ -58,6 +58,8 @@ header {
 nav { display: flex; gap: 8px; }
 nav button { background: transparent; border-color: transparent; color: var(--muted); }
 nav button[aria-current] { color: var(--gold); background: #e7c38412; border-color: #e7c38438; }
+.nav-link { display: inline-flex; align-items: center; min-height: 44px; padding: 8px 12px; border: 1px solid transparent; border-radius: 8px; color: var(--muted); text-decoration: none; }
+.nav-link:hover, .nav-link:focus-visible { color: var(--gold); background: #e7c38412; }
 #account { justify-self: end; max-width: 100%; overflow-wrap: anywhere; }
 button, select, input { font: inherit; }
 button, .retry {
@@ -152,8 +154,20 @@ h2 { font-size: clamp(23px, 4vw, 32px); }
 .tile strong { display: block; font: 24px/1.15 var(--display); }
 .tile small { display: block; margin-top: 4px; font-size: 13px; color: var(--muted); }
 .arrow { color: var(--tint); font-size: 20px; }
-footer { display: flex; align-items: center; gap: 9px; border-top: 1px solid #d8b77a38; padding: 16px 0 24px; font: 15px var(--display); }
+footer { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px 20px; border-top: 1px solid #d8b77a38; padding: 16px 0 24px; font: 15px var(--display); }
 footer b { color: var(--gold); } footer span { margin-left: auto; color: var(--muted); font: 13px var(--body); }
+.footer-title, .footer-links { display: flex; align-items: center; flex-wrap: wrap; gap: 9px; }
+.footer-links { color: var(--muted); font: 13px var(--body); }
+.footer-links a { color: var(--gold); text-underline-offset: 3px; }
+.footer-links a:hover { color: var(--cream); }
+.dashboard-panel > p { color: var(--muted); }
+.dashboard-grid { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 12px; margin-top: 24px; }
+.dashboard-stat { display: grid; gap: 9px; min-height: 106px; padding: 17px; border: 1px solid #d8b77a50; border-radius: 9px; background: linear-gradient(145deg,#202a40,#111a2a); }
+.dashboard-stat span { color: var(--muted); font-size: 13px; }
+.dashboard-stat strong { color: var(--gold); font: 30px/1 var(--display); }
+.support-panel { text-align: center; }
+.support-panel .coffee { margin: 10px auto 18px; color: var(--gold); font-size: clamp(42px,10vw,68px); }
+.pix-key { display: inline-block; margin: 8px 0 0; padding: 11px 15px; border: 1px solid #d8b77a80; border-radius: 7px; background: #10182b; color: var(--gold); font: 600 16px var(--body); overflow-wrap: anywhere; user-select: all; }
 .panel, dialog {
   background: radial-gradient(ellipse at 52% 0, #243354 0%, transparent 45%), var(--panel);
   border: 1px solid #a28b6566;
@@ -233,7 +247,7 @@ dialog h2 { padding-right: 46px; margin-bottom: 15px; }
   .brand { font-size: 16px; gap: 5px; }
   .brand i { width: 27px; height: 31px; font-size: 15px; }
   nav { gap: 1px; }
-  nav button, #account { font-size: 12px; padding-inline: 8px; }
+  nav button, nav .nav-link, #account { font-size: 12px; padding-inline: 8px; }
   main { padding-top: 15px; }
   .hero { min-height: 370px; }
   .hero::before { background-position: 62% center; background-image: linear-gradient(90deg,#0b1121ef 0%,#0b1121ad 49%,#0b112144),linear-gradient(0deg,#0b1121a8,transparent 55%),url("/castle.jpg"); }
@@ -241,6 +255,9 @@ dialog h2 { padding-right: 46px; margin-bottom: 15px; }
   .hero h1 { font-size: clamp(38px,12vw,75px); }
   .hero p { max-width: 25ch; }
   .grid { grid-template-columns: 1fr; gap: 9px; }
+  .dashboard-grid { gap: 8px; }
+  .dashboard-stat { min-height: 92px; padding: 13px; }
+  .dashboard-stat strong { font-size: 25px; }
   .tile { min-height: 75px; padding: 10px 13px; }
   .tile strong { font-size: 21px; }
   .houses { grid-template-columns: repeat(2,minmax(0,1fr)); }
@@ -249,7 +266,7 @@ dialog h2 { padding-right: 46px; margin-bottom: 15px; }
 @media (max-width: 390px) {
   .brand { font-size: 14px; }
   .brand i { width: 24px; }
-  nav button, #account { padding-inline: 6px; }
+  nav button, nav .nav-link, #account { padding-inline: 6px; }
   .hero p { font-size: 14px; }
   .character { gap: 10px; grid-template-columns: minmax(0,1fr) 30%; }
   .game-panel h1 { font-size: 31px; }

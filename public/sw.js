@@ -1,5 +1,5 @@
-const cacheName='salao-v12';
-const shell=['/','/index.html','/app.js','/art.js','/style.css','/castle.jpg','/fonts/cinzel.ttf','/fonts/dm-sans.ttf','/cards.json','/portraits.json'];
+const cacheName='salao-v14';
+const shell=['/','/index.html','/apoie.html','/app.js','/art.js','/style.css','/castle.jpg','/fonts/cinzel.ttf','/fonts/dm-sans.ttf','/cards.json','/portraits.json'];
 self.addEventListener('install',e=>e.waitUntil((async()=>{
  const cache=await caches.open(cacheName);
  await cache.addAll(shell);

@@ -22,6 +22,7 @@ function home(){
  delete app.dataset.motionKey;
  $('#home').setAttribute('aria-current','page');
  $('#ranking').removeAttribute('aria-current');
+ $('#dashboard').removeAttribute('aria-current');
  app.innerHTML=`<section class="hero">
   <canvas aria-hidden="true"></canvas>${sparks(24)}
   <div class="hero-copy">
@@ -40,10 +41,23 @@ function home(){
  </section>`;
  drawCastle($('canvas'));
 }
+function syncDashboard(){ $('#dashboard').hidden=!user||user.toLowerCase()!=='mateus'; }
+async function dashboard(){
+ stop();
+ if(!user||user.toLowerCase()!=='mateus'){home();return}
+ $('#home').removeAttribute('aria-current');$('#ranking').removeAttribute('aria-current');$('#dashboard').setAttribute('aria-current','page');
+ const generation=page;
+ app.innerHTML='<section class="panel dashboard-panel"><div class="eyebrow">✦ Área reservada</div><h1>Painel</h1><p>Acompanhamento do Salão das Casas.</p><div id="dashboard-stats" class="dashboard-grid" role="status">Carregando o painel…</div></section>';
+ try{
+  const stats=await api('dashboard');
+  if(page!==generation)return;
+  $('#dashboard-stats').innerHTML=[['Contas',stats.users],['Resultados registrados',stats.results],['Salas em andamento',stats.rooms],['Personagens no catálogo',stats.characters]].map(([label,value])=>'<article class="dashboard-stat"><span>'+esc(label)+'</span><strong>'+Number(value).toLocaleString('pt-BR')+'</strong></article>').join('');
+ }catch(e){if(page===generation)$('#dashboard-stats').innerHTML='<p class="err" role="alert">'+esc(e.message)+'</p>'}
+}
 function auth(register=false){
  show(`<h2>${register?'Criar conta':'Entrar no salão'}</h2><form id="auth"><label>Usuário<input name="name" minlength="3" maxlength="24" autocomplete="username" required></label><label>Senha<input name="password" type="password" minlength="6" maxlength="128" autocomplete="${register?'new':'current'}-password" required></label><button class="primary">${register?'Criar conta':'Entrar'}</button></form><div class="choices"><button id="switch">${register?'Já tenho conta':'Criar uma conta'}</button><button id="guest">Continuar como convidado</button></div>`);
  $('#switch').onclick=()=>auth(!register);$('#guest').onclick=()=>{afterLogin=null;modal.close();home()};
- $('#auth').onsubmit=async e=>{e.preventDefault();try{const result=await api(register?'register':'login',Object.fromEntries(new FormData(e.target)));user=result.user;$('#account').textContent=user;modal.close();const fn=afterLogin;afterLogin=null;if(fn)await fn()}catch(e){message(e)}}
+ $('#auth').onsubmit=async e=>{e.preventDefault();try{const result=await api(register?'register':'login',Object.fromEntries(new FormData(e.target)));user=result.user;$('#account').textContent=user;syncDashboard();modal.close();const fn=afterLogin;afterLogin=null;if(fn)await fn()}catch(e){message(e)}}
 }
 function configure(multi=false){
  show(`<h2>${multi?'Sala multiplayer':'Partida livre'}</h2>${multi?'<label>Modo<select id="mode"><option value="daily">Diário · vale ranking</option><option value="free">Partida livre</option></select></label>':''}<div id="options"><label>Categoria<select id="category">${['Todas','Filmes','Séries','Animes','Famosos reais'].map(c=>'<option>'+c+'</option>').join('')}</select></label><label>Subcategoria<select id="group"></select></label><label>Personagens<select id="count"><option>5</option><option selected>10</option><option>20</option></select></label><p id="count-hint" class="muted" role="status"></p></div><button class="primary" id="go">${multi?'Criar sala':'Começar partida'}</button>${multi?'<hr class="sep"><label>Código da sala<input id="code" placeholder="Código do anfitrião" maxlength="8"></label><button id="join">Entrar na sala</button>':'<p class="muted">Disponível offline · Fora do ranking</p>'}`);
@@ -101,11 +115,11 @@ function render(s){
  if(s.phase==='reveal'&&changed) $('.verdict h3').focus({preventScroll:true});
 }
 function names(items){return '<ul class="list">'+items.map(([a,b])=>'<li><b>'+esc(a)+'</b><span>'+esc(b)+'</span></li>').join('')+'</ul>'}
-async function rank(period='dia'){stop();$('#home').removeAttribute('aria-current');$('#ranking').setAttribute('aria-current','page');const generation=page;app.innerHTML='<section class="panel"><h1>Ranking</h1><p>Os pontos da primeira conclusão do diário de cada conta.</p><div class="choices">'+Object.entries({dia:'Diário',semana:'Semanal',geral:'Geral'}).map(([k,v])=>'<button class="'+(period===k?'primary':'')+'" data-period="'+k+'">'+v+'</button>').join('')+'</div><div id="rows" role="status">Carregando…</div></section>';try{const rows=await api('rank',{period});if(page===generation)$('#rows').innerHTML=rows.length?names(rows.map((r,i)=>[(i+1)+'. '+r.user,r.points+' pts'])):'Ainda não há pontuações neste período.'}catch{if(page===generation)$('#rows').textContent='Conecte-se para ver o ranking.'}}
+async function rank(period='dia'){stop();$('#home').removeAttribute('aria-current');$('#ranking').setAttribute('aria-current','page');$('#dashboard').removeAttribute('aria-current');const generation=page;app.innerHTML='<section class="panel"><h1>Ranking</h1><p>Os pontos da primeira conclusão do diário de cada conta.</p><div class="choices">'+Object.entries({dia:'Diário',semana:'Semanal',geral:'Geral'}).map(([k,v])=>'<button class="'+(period===k?'primary':'')+'" data-period="'+k+'">'+v+'</button>').join('')+'</div><div id="rows" role="status">Carregando…</div></section>';try{const rows=await api('rank',{period});if(page===generation)$('#rows').innerHTML=rows.length?names(rows.map((r,i)=>[(i+1)+'. '+r.user,r.points+' pts'])):'Ainda não há pontuações neste período.'}catch{if(page===generation)$('#rows').textContent='Conecte-se para ver o ranking.'}}
 function daily(){if(user&&navigator.onLine)net('create',{mode:'daily',multi:false});else{show('<h2>Desafio diário</h2><p>Jogue como convidado neste aparelho ou entre na sua conta para disputar o ranking.</p><div class="choices"><button id="practice">Jogar sem ranking</button><button id="signin" class="primary">Jogar valendo pontos</button></div>');$('#practice').onclick=()=>startLocal({mode:'daily'});$('#signin').onclick=()=>{afterLogin=daily;auth()}}}
 app.onclick=e=>{const b=e.target.closest('button');if(!b)return;const a=b.dataset.act,k=b.dataset.house;if(k){if(local){local.pick=k;local.score+=Number(local.deck[local.i].house===k);localRender()}else net('vote',{code:room.code,index:room.index,house:k})}
  if(a==='next'){if(local){local.i++;local.pick=null;localRender()}else net('next',{code:room.code,index:room.index})}
- if(a==='start')net('start',{code:room.code});if(a==='daily')daily();if(a==='free')configure();if(a==='multi'){if(user)configure(true);else{afterLogin=()=>configure(true);auth()}}if(a==='home')home();if(b.dataset.period)rank(b.dataset.period)};
-$('#home').onclick=home;$('#ranking').onclick=()=>rank();$('.close').onclick=()=>modal.close();$('#account').onclick=()=>{afterLogin=null;if(!user)return auth();show('<h2>'+esc(user)+'</h2><button id="logout">Sair da conta</button>');$('#logout').onclick=async()=>{try{await api('logout');user=null;sessionStorage.removeItem('sala');$('#account').textContent='Entrar ↗';modal.close();home()}catch(e){message(e)}}};
-(async()=>{[cards,portraits]=await Promise.all([fetch('/cards.json').then(r=>r.json()),fetch('/portraits.json').then(r=>r.json()).catch(()=>({}))]);try{user=(await api('me')).user}catch{}if(user)$('#account').textContent=user;home();if(user&&sessionStorage.getItem('sala'))net('state',{code:sessionStorage.getItem('sala')});if('serviceWorker' in navigator)navigator.serviceWorker.register('/sw.js').catch(()=>{});
+ if(a==='start')net('start',{code:room.code});if(a==='daily')daily();if(a==='free')configure();if(a==='multi'){if(user)configure(true);else{afterLogin=()=>configure(true);auth()}}if(a==='home')home();if(a==='dashboard')dashboard();if(b.dataset.period)rank(b.dataset.period)};
+$('#home').onclick=home;$('#ranking').onclick=()=>rank();$('#dashboard').onclick=dashboard;$('.close').onclick=()=>modal.close();$('#account').onclick=()=>{afterLogin=null;if(!user)return auth();show('<h2>'+esc(user)+'</h2><button id="logout">Sair da conta</button>');$('#logout').onclick=async()=>{try{await api('logout');user=null;syncDashboard();sessionStorage.removeItem('sala');$('#account').textContent='Entrar ↗';modal.close();home()}catch(e){message(e)}}};
+(async()=>{[cards,portraits]=await Promise.all([fetch('/cards.json').then(r=>r.json()),fetch('/portraits.json').then(r=>r.json()).catch(()=>({}))]);try{user=(await api('me')).user}catch{}if(user)$('#account').textContent=user;syncDashboard();home();if(user&&sessionStorage.getItem('sala'))net('state',{code:sessionStorage.getItem('sala')});if('serviceWorker' in navigator)navigator.serviceWorker.register('/sw.js').catch(()=>{});
 })().catch(()=>{app.innerHTML='<section class="panel"><h1>O salão não abriu</h1><p>Atualize a página para carregar o catálogo.</p><a class="primary retry" href="/">Tentar de novo</a></section>'});
